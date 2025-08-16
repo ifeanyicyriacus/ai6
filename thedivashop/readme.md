@@ -1,23 +1,55 @@
-# 🚀 AI6 (AI Saturday) Class Notebook Repository
+# Week 2 Assessment: Git & GitHub, Web Scraping
 
-Welcome to my AI6 cohort notebook! Here you'll find my journey through projects, assignments, and resources as I dive into the world of AI with the vibrant and inspiring AI Saturday Lagos community.
+Welcome to week 2 of the ML Flipped Cohort!  
+In this assessment, you'll demonstrate your understanding of:
 
-## Projects
-
-1. **Webscraping (thedivashop.ng)**  
-    - Building a scraper to explore inventory data from an ecommerce store—super excited to uncover valuable insights!
-
-2. *(More awesome projects coming soon!)*
-
-3. *(Stay tuned for updates!)*
-
-I'll be adding pictures, links, and more as the adventure continues. Can't wait to share my progress and discoveries—let's make learning AI fun and impactful!
+- **Git & GitHub:** Version control and collaboration.
+- **Introduction to Data Science:** Foundational concepts.
+- **Basic Web Scraping:** Extracting data from websites.
 
 ---
 
-## Useful Links
+## Project Overview
 
-- 🌟 [AI Saturday Lagos](https://www.aisaturdayslagos.com/) — Join the community!
-- 📚 [Our Program Material](https://github.com/AISaturdaysLagos/cohort_structure) — Explore what we're learning!
+This project involves scraping data from [The Diva Shop](https://thedivashop.ng/):
 
+> **The Diva Shop:** A Beauty and Cosmetics retail and wholesale e-commerce store.
 
+You will use web scraping techniques to collect product information from the site, organize the data, and prepare it for analysis.
+
+---
+
+## Tasks
+
+1. **Set up Git & GitHub**
+    - Initialize a repository.
+    - Commit your code regularly.
+    - Push changes to GitHub.
+
+2. **Web Scraping**
+    - Scrape product details (name, price, category, etc.) from The Diva Shop.
+    - Store the data in a structured format (e.g., CSV or JSON).
+
+3. **Documentation**
+    - Document your process and findings in this README.
+    - Include instructions for running your code.
+
+---
+
+## Getting Started
+
+1. Clone the repository:
+    ```bash
+    git clone <your-repo-url>
+    cd thedivashop
+    ```
+
+2. Install dependencies using [pip](https://pip.pypa.io/en/stable/):
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Run the scraper:
+    ```bash
+    python scrape_divashop.py
+    ```
