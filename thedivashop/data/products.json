@@ -1,0 +1,6750 @@
+[
+  {
+    "collection": "darling",
+    "title": "Darling Bohemian Passion Twist",
+    "url": "https://thedivashop.ng/products/bohemian-passion-twist",
+    "price": 7400.0,
+    "compare_at_price": 7800.0,
+    "currency": "NGN",
+    "description": "Apply TCB Oil Sheen occasionally to ensure the product lasts longer. We recommend the use of mousse to add volume to your hair. Trim a few weeks after installation for regular maintenance. Wear a satin bonnet at night for retaining the moisture",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/DarlingBohemianPassionTwist_List.jpg",
+      "https://thedivashop.ng/cdn/shop/products/Bohemain-Passion-Twist.png",
+      "https://thedivashop.ng/cdn/shop/products/Bohemain-520-x-600.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "1",
+        "price": 7400.0,
+        "compare_at_price": 7800.0,
+        "sku": "40053170",
+        "available": true,
+        "options": {
+          "Color": "1"
+        }
+      },
+      {
+        "option_title": "1/27",
+        "price": 7400.0,
+        "compare_at_price": 7800.0,
+        "sku": "40053186",
+        "available": false,
+        "options": {
+          "Color": "1/27"
+        }
+      },
+      {
+        "option_title": "1/900",
+        "price": 7400.0,
+        "compare_at_price": 7800.0,
+        "sku": "40053187",
+        "available": false,
+        "options": {
+          "Color": "1/900"
+        }
+      },
+      {
+        "option_title": "1/GOLD",
+        "price": 7400.0,
+        "compare_at_price": 7800.0,
+        "sku": "40053188",
+        "available": false,
+        "options": {
+          "Color": "1/GOLD"
+        }
+      },
+      {
+        "option_title": "1/35",
+        "price": 7400.0,
+        "compare_at_price": 7800.0,
+        "sku": "40053189",
+        "available": false,
+        "options": {
+          "Color": "1/35"
+        }
+      },
+      {
+        "option_title": "1/PURPLE",
+        "price": 7400.0,
+        "compare_at_price": 7800.0,
+        "sku": "40053190",
+        "available": true,
+        "options": {
+          "Color": "1/PURPLE"
+        }
+      }
+    ],
+    "option_names": [
+      "Color"
+    ],
+    "option_values": {
+      "Color": [
+        "1",
+        "1/27",
+        "1/35",
+        "1/900",
+        "1/GOLD",
+        "1/PURPLE"
+      ]
+    }
+  },
+  {
+    "collection": "darling",
+    "title": "Darling Afro Puff Pony",
+    "url": "https://thedivashop.ng/products/darling-afro-puff-pony",
+    "price": 4800.0,
+    "compare_at_price": null,
+    "currency": "NGN",
+    "description": "Use fingers to gently stroke your hair for additional volume. Apply TCB Oil Sheen occasionally for maintanence if needed. Trim after few weeks of installation to keep the style intact. We highly recommend storing the product in the pack itself after use.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/Afro-Puff-Pony.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "1",
+        "price": 4800.0,
+        "compare_at_price": null,
+        "sku": "40053960",
+        "available": true,
+        "options": {
+          "Color": "1"
+        }
+      },
+      {
+        "option_title": "GOLD",
+        "price": 4800.0,
+        "compare_at_price": null,
+        "sku": "40053958",
+        "available": false,
+        "options": {
+          "Color": "GOLD"
+        }
+      }
+    ],
+    "option_names": [
+      "Color"
+    ],
+    "option_values": {
+      "Color": [
+        "1",
+        "GOLD"
+      ]
+    }
+  },
+  {
+    "collection": "darling",
+    "title": "Darling Duchess Regular Cut",
+    "url": "https://thedivashop.ng/products/darling-duchess-230g-regular-cut",
+    "price": 4100.0,
+    "compare_at_price": 4800.0,
+    "currency": null,
+    "description": null,
+    "images": [],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "1",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052414",
+        "available": true,
+        "options": {
+          "Color": "1"
+        }
+      },
+      {
+        "option_title": "27",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052415",
+        "available": true,
+        "options": {
+          "Color": "27"
+        }
+      },
+      {
+        "option_title": "30",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052429",
+        "available": true,
+        "options": {
+          "Color": "30"
+        }
+      },
+      {
+        "option_title": "BG900",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052417",
+        "available": true,
+        "options": {
+          "Color": "BG900"
+        }
+      },
+      {
+        "option_title": "CAMO GREEN",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052419",
+        "available": true,
+        "options": {
+          "Color": "CAMO GREEN"
+        }
+      },
+      {
+        "option_title": "DARLING PURPLE",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052423",
+        "available": true,
+        "options": {
+          "Color": "DARLING PURPLE"
+        }
+      },
+      {
+        "option_title": "GOLD",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052418",
+        "available": true,
+        "options": {
+          "Color": "GOLD"
+        }
+      },
+      {
+        "option_title": "33",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052430",
+        "available": true,
+        "options": {
+          "Color": "33"
+        }
+      }
+    ],
+    "option_names": [
+      "Color"
+    ],
+    "option_values": {
+      "Color": [
+        "1",
+        "27",
+        "30",
+        "33",
+        "BG900",
+        "CAMO GREEN",
+        "DARLING PURPLE",
+        "GOLD"
+      ]
+    }
+  },
+  {
+    "collection": "darling",
+    "title": "Darling Duchess Pre-Cut",
+    "url": "https://thedivashop.ng/products/darling-duchess-400g-pre-cut",
+    "price": 7700.0,
+    "compare_at_price": 9100.0,
+    "currency": null,
+    "description": null,
+    "images": [],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "1",
+        "price": 7700.0,
+        "compare_at_price": 9100.0,
+        "sku": "40052403",
+        "available": true,
+        "options": {
+          "Color": "1"
+        }
+      },
+      {
+        "option_title": "27",
+        "price": 7700.0,
+        "compare_at_price": 9100.0,
+        "sku": "40052398",
+        "available": true,
+        "options": {
+          "Color": "27"
+        }
+      },
+      {
+        "option_title": "30",
+        "price": 7700.0,
+        "compare_at_price": 9100.0,
+        "sku": "40052402",
+        "available": true,
+        "options": {
+          "Color": "30"
+        }
+      },
+      {
+        "option_title": "BG900",
+        "price": 7700.0,
+        "compare_at_price": 9100.0,
+        "sku": "40052406",
+        "available": true,
+        "options": {
+          "Color": "BG900"
+        }
+      },
+      {
+        "option_title": "CAMO GREEN",
+        "price": 7700.0,
+        "compare_at_price": 9100.0,
+        "sku": "40052420",
+        "available": true,
+        "options": {
+          "Color": "CAMO GREEN"
+        }
+      },
+      {
+        "option_title": "DARLING PURPLE",
+        "price": 7700.0,
+        "compare_at_price": 9100.0,
+        "sku": "40052408",
+        "available": true,
+        "options": {
+          "Color": "DARLING PURPLE"
+        }
+      },
+      {
+        "option_title": "Royal Purple",
+        "price": 7700.0,
+        "compare_at_price": 9100.0,
+        "sku": "40052422",
+        "available": true,
+        "options": {
+          "Color": "Royal Purple"
+        }
+      },
+      {
+        "option_title": "Fiery Red",
+        "price": 7700.0,
+        "compare_at_price": 9100.0,
+        "sku": "40052410",
+        "available": true,
+        "options": {
+          "Color": "Fiery Red"
+        }
+      },
+      {
+        "option_title": "Cute Pink",
+        "price": 7700.0,
+        "compare_at_price": 9100.0,
+        "sku": "40052409",
+        "available": true,
+        "options": {
+          "Color": "Cute Pink"
+        }
+      },
+      {
+        "option_title": "GOLD",
+        "price": 7700.0,
+        "compare_at_price": 9100.0,
+        "sku": "40052407",
+        "available": true,
+        "options": {
+          "Color": "GOLD"
+        }
+      },
+      {
+        "option_title": "33",
+        "price": 7700.0,
+        "compare_at_price": 9100.0,
+        "sku": "40052404",
+        "available": true,
+        "options": {
+          "Color": "33"
+        }
+      }
+    ],
+    "option_names": [
+      "Color"
+    ],
+    "option_values": {
+      "Color": [
+        "1",
+        "27",
+        "30",
+        "33",
+        "BG900",
+        "CAMO GREEN",
+        "Cute Pink",
+        "DARLING PURPLE",
+        "Fiery Red",
+        "GOLD",
+        "Royal Purple"
+      ]
+    }
+  },
+  {
+    "collection": "darling",
+    "title": "Darling Easy Braid 2X",
+    "url": "https://thedivashop.ng/products/darling-easy-braid-2x",
+    "price": 2600.0,
+    "compare_at_price": 2700.0,
+    "currency": "NGN",
+    "description": "To add moisture and shine on your own hair and scalp use African Pride braid spray twice a week. Before going to bed wear a silk nightcap to prevent damage. Wear a swimming cap when swimming and if the hair comes into contact with the pool or sea water make sure to rinse the hair thoroughly before you condition or moisture.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/EASYBRAID2X.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "1",
+        "price": 2600.0,
+        "compare_at_price": 2700.0,
+        "sku": "40052489",
+        "available": true,
+        "options": {
+          "Color": "1"
+        }
+      },
+      {
+        "option_title": "1/IVORY",
+        "price": 2600.0,
+        "compare_at_price": 2700.0,
+        "sku": "FGBRDAEB0087",
+        "available": false,
+        "options": {
+          "Color": "1/IVORY"
+        }
+      },
+      {
+        "option_title": "1/DARLING PURPLE",
+        "price": 2600.0,
+        "compare_at_price": 2700.0,
+        "sku": null,
+        "available": false,
+        "options": {
+          "Color": "1/DARLING PURPLE"
+        }
+      },
+      {
+        "option_title": "1/BABY PINK",
+        "price": 2600.0,
+        "compare_at_price": 2700.0,
+        "sku": "40055994",
+        "available": false,
+        "options": {
+          "Color": "1/BABY PINK"
+        }
+      }
+    ],
+    "option_names": [
+      "Color"
+    ],
+    "option_values": {
+      "Color": [
+        "1",
+        "1/BABY PINK",
+        "1/DARLING PURPLE",
+        "1/IVORY"
+      ]
+    }
+  },
+  {
+    "collection": "darling",
+    "title": "Darling Easy Braid 3X",
+    "url": "https://thedivashop.ng/products/darling-easy-braid-3x",
+    "price": 1900.0,
+    "compare_at_price": 2000.0,
+    "currency": "NGN",
+    "description": "To add moisture and shine on your own hair and scalp use African Pride braid spray twice a week. Before going to bed wear a silk nightcap to prevent damage. Wear a swimming cap when swimming and if the hair comes into contact with the pool or sea water make sure to rinse the hair thoroughly before you condition or moisture.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/easy-braid-3x_1.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "1/PURPLE / 37\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052619",
+        "available": false,
+        "options": {
+          "Color": "1/PURPLE",
+          "Length": "37\""
+        }
+      },
+      {
+        "option_title": "1/PURPLE / 40\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052648",
+        "available": false,
+        "options": {
+          "Color": "1/PURPLE",
+          "Length": "40\""
+        }
+      },
+      {
+        "option_title": "1/PURPLE / 45\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052677",
+        "available": false,
+        "options": {
+          "Color": "1/PURPLE",
+          "Length": "45\""
+        }
+      },
+      {
+        "option_title": "1/SILVER / 37\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052626",
+        "available": false,
+        "options": {
+          "Color": "1/SILVER",
+          "Length": "37\""
+        }
+      },
+      {
+        "option_title": "1/SILVER / 40\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052649",
+        "available": false,
+        "options": {
+          "Color": "1/SILVER",
+          "Length": "40\""
+        }
+      },
+      {
+        "option_title": "1/SILVER / 45\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052686",
+        "available": false,
+        "options": {
+          "Color": "1/SILVER",
+          "Length": "45\""
+        }
+      },
+      {
+        "option_title": "1/DARLING PURPLE / 37\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052612",
+        "available": false,
+        "options": {
+          "Color": "1/DARLING PURPLE",
+          "Length": "37\""
+        }
+      },
+      {
+        "option_title": "1/30 / 37\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052603",
+        "available": false,
+        "options": {
+          "Color": "1/30",
+          "Length": "37\""
+        }
+      },
+      {
+        "option_title": "1/30 / 40\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052610",
+        "available": false,
+        "options": {
+          "Color": "1/30",
+          "Length": "40\""
+        }
+      },
+      {
+        "option_title": "1/30 / 45\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052662",
+        "available": false,
+        "options": {
+          "Color": "1/30",
+          "Length": "45\""
+        }
+      },
+      {
+        "option_title": "1/35 / 37\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052604",
+        "available": false,
+        "options": {
+          "Color": "1/35",
+          "Length": "37\""
+        }
+      },
+      {
+        "option_title": "1/35 / 40\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052620",
+        "available": false,
+        "options": {
+          "Color": "1/35",
+          "Length": "40\""
+        }
+      },
+      {
+        "option_title": "1/35 / 45\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052671",
+        "available": false,
+        "options": {
+          "Color": "1/35",
+          "Length": "45\""
+        }
+      },
+      {
+        "option_title": "1/60 / 40\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052621",
+        "available": false,
+        "options": {
+          "Color": "1/60",
+          "Length": "40\""
+        }
+      },
+      {
+        "option_title": "1/60 / 45\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052663",
+        "available": false,
+        "options": {
+          "Color": "1/60",
+          "Length": "45\""
+        }
+      },
+      {
+        "option_title": "1/BG900 / 40\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052627",
+        "available": false,
+        "options": {
+          "Color": "1/BG900",
+          "Length": "40\""
+        }
+      },
+      {
+        "option_title": "1/BLUSH PINK / 37\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052608",
+        "available": false,
+        "options": {
+          "Color": "1/BLUSH PINK",
+          "Length": "37\""
+        }
+      },
+      {
+        "option_title": "1/BLUSH PINK / 40\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052622",
+        "available": false,
+        "options": {
+          "Color": "1/BLUSH PINK",
+          "Length": "40\""
+        }
+      },
+      {
+        "option_title": "1/BLUSH PINK / 45\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052664",
+        "available": false,
+        "options": {
+          "Color": "1/BLUSH PINK",
+          "Length": "45\""
+        }
+      },
+      {
+        "option_title": "1/GOLD / 40\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052645",
+        "available": false,
+        "options": {
+          "Color": "1/GOLD",
+          "Length": "40\""
+        }
+      },
+      {
+        "option_title": "1/GOLD / 45\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052675",
+        "available": false,
+        "options": {
+          "Color": "1/GOLD",
+          "Length": "45\""
+        }
+      },
+      {
+        "option_title": "1/GREEN / 37\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052613",
+        "available": false,
+        "options": {
+          "Color": "1/GREEN",
+          "Length": "37\""
+        }
+      },
+      {
+        "option_title": "1/GREEN / 40\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052628",
+        "available": false,
+        "options": {
+          "Color": "1/GREEN",
+          "Length": "40\""
+        }
+      },
+      {
+        "option_title": "1/GREEN / 45\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052672",
+        "available": false,
+        "options": {
+          "Color": "1/GREEN",
+          "Length": "45\""
+        }
+      },
+      {
+        "option_title": "1/METALLIC GRAY / 37\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052617",
+        "available": false,
+        "options": {
+          "Color": "1/METALLIC GRAY",
+          "Length": "37\""
+        }
+      },
+      {
+        "option_title": "1/METALLIC GRAY / 40\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052646",
+        "available": false,
+        "options": {
+          "Color": "1/METALLIC GRAY",
+          "Length": "40\""
+        }
+      },
+      {
+        "option_title": "1/PINK / 37\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052618",
+        "available": false,
+        "options": {
+          "Color": "1/PINK",
+          "Length": "37\""
+        }
+      },
+      {
+        "option_title": "1/PINK / 40\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052647",
+        "available": false,
+        "options": {
+          "Color": "1/PINK",
+          "Length": "40\""
+        }
+      },
+      {
+        "option_title": "1/PINK / 45\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052676",
+        "available": false,
+        "options": {
+          "Color": "1/PINK",
+          "Length": "45\""
+        }
+      },
+      {
+        "option_title": "1/TEAL / 40\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052660",
+        "available": false,
+        "options": {
+          "Color": "1/TEAL",
+          "Length": "40\""
+        }
+      },
+      {
+        "option_title": "1/WHITE / 40\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052665",
+        "available": true,
+        "options": {
+          "Color": "1/WHITE",
+          "Length": "40\""
+        }
+      },
+      {
+        "option_title": "1/WHITE / 45\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052678",
+        "available": false,
+        "options": {
+          "Color": "1/WHITE",
+          "Length": "45\""
+        }
+      },
+      {
+        "option_title": "1/ORANGE / 45\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052673",
+        "available": false,
+        "options": {
+          "Color": "1/ORANGE",
+          "Length": "45\""
+        }
+      },
+      {
+        "option_title": "1/39 / 40\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052667",
+        "available": false,
+        "options": {
+          "Color": "1/39",
+          "Length": "40\""
+        }
+      },
+      {
+        "option_title": "1/39 / 45\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052680",
+        "available": false,
+        "options": {
+          "Color": "1/39",
+          "Length": "45\""
+        }
+      },
+      {
+        "option_title": "1/BLUE / 40\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052661",
+        "available": false,
+        "options": {
+          "Color": "1/BLUE",
+          "Length": "40\""
+        }
+      },
+      {
+        "option_title": "1/BLUE / 37",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052609",
+        "available": false,
+        "options": {
+          "Color": "1/BLUE",
+          "Length": "37"
+        }
+      },
+      {
+        "option_title": "1/BLUE / 45",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052679",
+        "available": false,
+        "options": {
+          "Color": "1/BLUE",
+          "Length": "45"
+        }
+      },
+      {
+        "option_title": "1/RED / 40\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052666",
+        "available": false,
+        "options": {
+          "Color": "1/RED",
+          "Length": "40\""
+        }
+      },
+      {
+        "option_title": "1/27 / 45\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052687",
+        "available": false,
+        "options": {
+          "Color": "1/27",
+          "Length": "45\""
+        }
+      },
+      {
+        "option_title": "1/350 / 45\"",
+        "price": 1900.0,
+        "compare_at_price": 2000.0,
+        "sku": "40052695",
+        "available": false,
+        "options": {
+          "Color": "1/350",
+          "Length": "45\""
+        }
+      }
+    ],
+    "option_names": [
+      "Color",
+      "Length"
+    ],
+    "option_values": {
+      "Color": [
+        "1/27",
+        "1/30",
+        "1/35",
+        "1/350",
+        "1/39",
+        "1/60",
+        "1/BG900",
+        "1/BLUE",
+        "1/BLUSH PINK",
+        "1/DARLING PURPLE",
+        "1/GOLD",
+        "1/GREEN",
+        "1/METALLIC GRAY",
+        "1/ORANGE",
+        "1/PINK",
+        "1/PURPLE",
+        "1/RED",
+        "1/SILVER",
+        "1/TEAL",
+        "1/WHITE"
+      ],
+      "Length": [
+        "37",
+        "37\"",
+        "40\"",
+        "45",
+        "45\""
+      ]
+    }
+  },
+  {
+    "collection": "darling",
+    "title": "Darling Easy Braid 5X",
+    "url": "https://thedivashop.ng/products/darling-easy-braid-5x",
+    "price": 4900.0,
+    "compare_at_price": 4900.0,
+    "currency": "NGN",
+    "description": "To add moisture and shine on your own hair and scalp use African Pride braid spray twice a week. Before going to bed wear a silk nightcap to prevent damage. Wear a swimming cap when swimming and if the hair comes into contact with the pool or sea water make sure to rinse the hair thoroughly before you condition or moisture.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/EASYBRAID5X.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "1",
+        "price": 4900.0,
+        "compare_at_price": 5200.0,
+        "sku": "40052474",
+        "available": false,
+        "options": {
+          "Color": "1"
+        }
+      },
+      {
+        "option_title": "1/30",
+        "price": 4900.0,
+        "compare_at_price": 5200.0,
+        "sku": "40052481",
+        "available": false,
+        "options": {
+          "Color": "1/30"
+        }
+      },
+      {
+        "option_title": "1/900",
+        "price": 4900.0,
+        "compare_at_price": 5200.0,
+        "sku": "40052480",
+        "available": false,
+        "options": {
+          "Color": "1/900"
+        }
+      },
+      {
+        "option_title": "1/DARK GREEN",
+        "price": 4900.0,
+        "compare_at_price": 5200.0,
+        "sku": "FGBRDAEB0089",
+        "available": false,
+        "options": {
+          "Color": "1/DARK GREEN"
+        }
+      },
+      {
+        "option_title": "1/GREEN",
+        "price": 4900.0,
+        "compare_at_price": 5200.0,
+        "sku": "40052478",
+        "available": false,
+        "options": {
+          "Color": "1/GREEN"
+        }
+      },
+      {
+        "option_title": "1/METALLIC GREY",
+        "price": 4900.0,
+        "compare_at_price": 5200.0,
+        "sku": "FGBRDAEB0090",
+        "available": false,
+        "options": {
+          "Color": "1/METALLIC GREY"
+        }
+      },
+      {
+        "option_title": "1/ORANGE",
+        "price": 4900.0,
+        "compare_at_price": 5200.0,
+        "sku": "40052479",
+        "available": false,
+        "options": {
+          "Color": "1/ORANGE"
+        }
+      },
+      {
+        "option_title": "1/PINK",
+        "price": 4900.0,
+        "compare_at_price": 5200.0,
+        "sku": null,
+        "available": false,
+        "options": {
+          "Color": "1/PINK"
+        }
+      },
+      {
+        "option_title": "1/WHITE",
+        "price": 4900.0,
+        "compare_at_price": 4900.0,
+        "sku": "40052482",
+        "available": false,
+        "options": {
+          "Color": "1/WHITE"
+        }
+      },
+      {
+        "option_title": "1/33",
+        "price": 4900.0,
+        "compare_at_price": 4900.0,
+        "sku": "40052515",
+        "available": false,
+        "options": {
+          "Color": "1/33"
+        }
+      },
+      {
+        "option_title": "1/35",
+        "price": 4900.0,
+        "compare_at_price": 5200.0,
+        "sku": "FGBRDAEB0150",
+        "available": false,
+        "options": {
+          "Color": "1/35"
+        }
+      },
+      {
+        "option_title": "33",
+        "price": 4900.0,
+        "compare_at_price": 5200.0,
+        "sku": "FGBRDAEB0112",
+        "available": false,
+        "options": {
+          "Color": "33"
+        }
+      }
+    ],
+    "option_names": [
+      "Color"
+    ],
+    "option_values": {
+      "Color": [
+        "1",
+        "1/30",
+        "1/33",
+        "1/35",
+        "1/900",
+        "1/DARK GREEN",
+        "1/GREEN",
+        "1/METALLIC GREY",
+        "1/ORANGE",
+        "1/PINK",
+        "1/WHITE",
+        "33"
+      ]
+    }
+  },
+  {
+    "collection": "darling",
+    "title": "Darling Easy Braid 7X",
+    "url": "https://thedivashop.ng/products/darling-easy-braid-7x",
+    "price": 6200.0,
+    "compare_at_price": 6500.0,
+    "currency": "NGN",
+    "description": "To add moisture and shine on your own hair and scalp use African Pride braid spray twice a week. Before going to bed wear a silk nightcap to prevent damage. Wear a swimming cap when swimming and if the hair comes into contact with the pool or sea water make sure to rinse the hair thoroughly before you condition or moisture.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/Easy-Braid-7x1-camogreen.png",
+      "https://thedivashop.ng/cdn/shop/products/Lollipop_2.png",
+      "https://thedivashop.ng/cdn/shop/products/BlackXLilac_2.png",
+      "https://thedivashop.ng/cdn/shop/products/Navy_2.png",
+      "https://thedivashop.ng/cdn/shop/products/Tulip_2.png",
+      "https://thedivashop.ng/cdn/shop/products/Easy-Braid-7X.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "1",
+        "price": 6200.0,
+        "compare_at_price": 6500.0,
+        "sku": "40052696",
+        "available": false,
+        "options": {
+          "Color": "1"
+        }
+      },
+      {
+        "option_title": "1/27",
+        "price": 6200.0,
+        "compare_at_price": 6500.0,
+        "sku": "40052681",
+        "available": true,
+        "options": {
+          "Color": "1/27"
+        }
+      },
+      {
+        "option_title": "1/BG900",
+        "price": 6200.0,
+        "compare_at_price": 6500.0,
+        "sku": "40052697",
+        "available": true,
+        "options": {
+          "Color": "1/BG900"
+        }
+      },
+      {
+        "option_title": "1/TEAL",
+        "price": 6200.0,
+        "compare_at_price": 6500.0,
+        "sku": "40052682",
+        "available": true,
+        "options": {
+          "Color": "1/TEAL"
+        }
+      },
+      {
+        "option_title": "1/GOLD",
+        "price": 6200.0,
+        "compare_at_price": 6500.0,
+        "sku": "40052698",
+        "available": true,
+        "options": {
+          "Color": "1/GOLD"
+        }
+      },
+      {
+        "option_title": "1/CAMO GREEN",
+        "price": 6200.0,
+        "compare_at_price": 6500.0,
+        "sku": "40052683",
+        "available": true,
+        "options": {
+          "Color": "1/CAMO GREEN"
+        }
+      },
+      {
+        "option_title": "Black X Lilac",
+        "price": 6200.0,
+        "compare_at_price": 6500.0,
+        "sku": "40052700",
+        "available": true,
+        "options": {
+          "Color": "Black X Lilac"
+        }
+      },
+      {
+        "option_title": "Lollipop",
+        "price": 6200.0,
+        "compare_at_price": 6500.0,
+        "sku": "40052685",
+        "available": true,
+        "options": {
+          "Color": "Lollipop"
+        }
+      },
+      {
+        "option_title": "Navy",
+        "price": 6200.0,
+        "compare_at_price": 6500.0,
+        "sku": "40052684",
+        "available": true,
+        "options": {
+          "Color": "Navy"
+        }
+      },
+      {
+        "option_title": "Tulip",
+        "price": 6200.0,
+        "compare_at_price": 6500.0,
+        "sku": "40052699",
+        "available": true,
+        "options": {
+          "Color": "Tulip"
+        }
+      }
+    ],
+    "option_names": [
+      "Color"
+    ],
+    "option_values": {
+      "Color": [
+        "1",
+        "1/27",
+        "1/BG900",
+        "1/CAMO GREEN",
+        "1/GOLD",
+        "1/TEAL",
+        "Black X Lilac",
+        "Lollipop",
+        "Navy",
+        "Tulip"
+      ]
+    }
+  },
+  {
+    "collection": "darling",
+    "title": "Darling Empress Curly Braid",
+    "url": "https://thedivashop.ng/products/darling-empress-curly-braid",
+    "price": 8200.0,
+    "compare_at_price": 9100.0,
+    "currency": "NGN",
+    "description": "To make your pre-curled empress curly braid last longer, please do not wash, rub, squeeze, or comb the hair. For a healthy shiny look, use MegaGrowth Break Free Leave-in Strengthener and keep your pre-curled curly braid looking smooth &amp;amp; neat. This will help retain moisture and luster on your hair and scalp. Avoid the use of heat agents to dry hair as much as possible. When not installed, place hair on a flat surface and allow hair to air dry completely. Style with your fingers and minimize the use of a brush for longer shelf life. Please do not dip it...",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/files/Curly-Braid.png",
+      "https://thedivashop.ng/cdn/shop/files/WhatsAppImage2024-04-02at15.01.34.jpg",
+      "https://thedivashop.ng/cdn/shop/products/1-27.png",
+      "https://thedivashop.ng/cdn/shop/products/1-gold.png",
+      "https://thedivashop.ng/cdn/shop/products/27-30-33.png",
+      "https://thedivashop.ng/cdn/shop/products/Darling-Empress-CurlyBraid-1.png",
+      "https://thedivashop.ng/cdn/shop/products/Curly-Braid-Ombre1-27-New.jpg",
+      "https://thedivashop.ng/cdn/shop/products/27-30.png",
+      "https://thedivashop.ng/cdn/shop/products/Darling-Empress-CurlyBraid-Fruity.png",
+      "https://thedivashop.ng/cdn/shop/products/27-33.png",
+      "https://thedivashop.ng/cdn/shop/products/30.png",
+      "https://thedivashop.ng/cdn/shop/products/CurlyBraid30-33.jpg",
+      "https://thedivashop.ng/cdn/shop/products/Curly-Braid-Ombre1-900-New.jpg"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "1",
+        "price": 8200.0,
+        "compare_at_price": 9100.0,
+        "sku": "40053381",
+        "available": true,
+        "options": {
+          "Color": "1"
+        }
+      },
+      {
+        "option_title": "1/27",
+        "price": 8200.0,
+        "compare_at_price": 9100.0,
+        "sku": "40053378",
+        "available": true,
+        "options": {
+          "Color": "1/27"
+        }
+      },
+      {
+        "option_title": "1/900",
+        "price": 8200.0,
+        "compare_at_price": 9100.0,
+        "sku": "40053382",
+        "available": true,
+        "options": {
+          "Color": "1/900"
+        }
+      },
+      {
+        "option_title": "1/27 Ombre",
+        "price": 8200.0,
+        "compare_at_price": 9100.0,
+        "sku": "40053420",
+        "available": true,
+        "options": {
+          "Color": "1/27 Ombre"
+        }
+      },
+      {
+        "option_title": "30",
+        "price": 8200.0,
+        "compare_at_price": 9100.0,
+        "sku": "40053390",
+        "available": true,
+        "options": {
+          "Color": "30"
+        }
+      },
+      {
+        "option_title": "33",
+        "price": 8200.0,
+        "compare_at_price": 9100.0,
+        "sku": "40053379",
+        "available": false,
+        "options": {
+          "Color": "33"
+        }
+      },
+      {
+        "option_title": "FRUITY",
+        "price": 8200.0,
+        "compare_at_price": 9100.0,
+        "sku": "40053403",
+        "available": true,
+        "options": {
+          "Color": "FRUITY"
+        }
+      },
+      {
+        "option_title": "CAFE",
+        "price": 8200.0,
+        "compare_at_price": 9100.0,
+        "sku": "40053408",
+        "available": false,
+        "options": {
+          "Color": "CAFE"
+        }
+      },
+      {
+        "option_title": "1/Gold",
+        "price": 8200.0,
+        "compare_at_price": 9100.0,
+        "sku": "40053418",
+        "available": false,
+        "options": {
+          "Color": "1/Gold"
+        }
+      },
+      {
+        "option_title": "30/33",
+        "price": 8200.0,
+        "compare_at_price": 9100.0,
+        "sku": "40053406",
+        "available": true,
+        "options": {
+          "Color": "30/33"
+        }
+      },
+      {
+        "option_title": "27",
+        "price": 8200.0,
+        "compare_at_price": 9100.0,
+        "sku": "40053383",
+        "available": false,
+        "options": {
+          "Color": "27"
+        }
+      },
+      {
+        "option_title": "Spice Gold",
+        "price": 8200.0,
+        "compare_at_price": 9100.0,
+        "sku": "40053419",
+        "available": true,
+        "options": {
+          "Color": "Spice Gold"
+        }
+      },
+      {
+        "option_title": "27/30",
+        "price": 8200.0,
+        "compare_at_price": 9100.0,
+        "sku": "40053380",
+        "available": true,
+        "options": {
+          "Color": "27/30"
+        }
+      },
+      {
+        "option_title": "27/33",
+        "price": 8200.0,
+        "compare_at_price": 9100.0,
+        "sku": "40053391",
+        "available": true,
+        "options": {
+          "Color": "27/33"
+        }
+      },
+      {
+        "option_title": "27/30/33",
+        "price": 8200.0,
+        "compare_at_price": 9100.0,
+        "sku": "40053392",
+        "available": true,
+        "options": {
+          "Color": "27/30/33"
+        }
+      },
+      {
+        "option_title": "1/900 Ombre",
+        "price": 8200.0,
+        "compare_at_price": 9100.0,
+        "sku": "40053405",
+        "available": true,
+        "options": {
+          "Color": "1/900 Ombre"
+        }
+      },
+      {
+        "option_title": "LATTE",
+        "price": 8200.0,
+        "compare_at_price": 9100.0,
+        "sku": "40053407",
+        "available": true,
+        "options": {
+          "Color": "LATTE"
+        }
+      }
+    ],
+    "option_names": [
+      "Color"
+    ],
+    "option_values": {
+      "Color": [
+        "1",
+        "1/27",
+        "1/27 Ombre",
+        "1/900",
+        "1/900 Ombre",
+        "1/Gold",
+        "27",
+        "27/30",
+        "27/30/33",
+        "27/33",
+        "30",
+        "30/33",
+        "33",
+        "CAFE",
+        "FRUITY",
+        "LATTE",
+        "Spice Gold"
+      ]
+    }
+  },
+  {
+    "collection": "darling",
+    "title": "Darling Empress Loose Braid",
+    "url": "https://thedivashop.ng/products/darling-empress-loose-braid",
+    "price": 8600.0,
+    "compare_at_price": 9100.0,
+    "currency": "NGN",
+    "description": "To make your pre curled loose braid last longer, we highly encourage brushing your hair with a soft bristle brush. Do not wash, rub, squeeze, or comb the hair. Avoid the use of heat agents to dry hair as much as possible. When not installed, place hair in a flat surface and allow hair to air dry completely. Style with your fingers and minimize the use of a brush for longer shelf life. Please do not dip it in hot water.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/LooseBraidFruity.jpg",
+      "https://thedivashop.ng/cdn/shop/files/Loose-Braid.png",
+      "https://thedivashop.ng/cdn/shop/products/LooseBraid1-27.jpg",
+      "https://thedivashop.ng/cdn/shop/products/DarlingPre-CurledLooseBraid.jpg",
+      "https://thedivashop.ng/cdn/shop/products/LooseBraid1-900.jpg"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "1",
+        "price": 8600.0,
+        "compare_at_price": 9100.0,
+        "sku": "40053352",
+        "available": true,
+        "options": {
+          "Color": "1"
+        }
+      },
+      {
+        "option_title": "1/27",
+        "price": 8600.0,
+        "compare_at_price": 9100.0,
+        "sku": "40053353",
+        "available": true,
+        "options": {
+          "Color": "1/27"
+        }
+      },
+      {
+        "option_title": "1/900",
+        "price": 8600.0,
+        "compare_at_price": 9100.0,
+        "sku": "40053357",
+        "available": true,
+        "options": {
+          "Color": "1/900"
+        }
+      },
+      {
+        "option_title": "FRUITY",
+        "price": 8600.0,
+        "compare_at_price": 9100.0,
+        "sku": "40053349",
+        "available": true,
+        "options": {
+          "Color": "FRUITY"
+        }
+      },
+      {
+        "option_title": "CAFE",
+        "price": 8600.0,
+        "compare_at_price": 9100.0,
+        "sku": "40053350",
+        "available": false,
+        "options": {
+          "Color": "CAFE"
+        }
+      },
+      {
+        "option_title": "1/30",
+        "price": 8600.0,
+        "compare_at_price": 9100.0,
+        "sku": "40053358",
+        "available": true,
+        "options": {
+          "Color": "1/30"
+        }
+      },
+      {
+        "option_title": "1/Gold",
+        "price": 8600.0,
+        "compare_at_price": 9100.0,
+        "sku": "40053364",
+        "available": false,
+        "options": {
+          "Color": "1/Gold"
+        }
+      },
+      {
+        "option_title": "Spice Gold",
+        "price": 8600.0,
+        "compare_at_price": 9100.0,
+        "sku": "40053365",
+        "available": false,
+        "options": {
+          "Color": "Spice Gold"
+        }
+      },
+      {
+        "option_title": "1/27 Ombre",
+        "price": 8600.0,
+        "compare_at_price": 9100.0,
+        "sku": "40053366",
+        "available": false,
+        "options": {
+          "Color": "1/27 Ombre"
+        }
+      },
+      {
+        "option_title": "Ombre 1/900",
+        "price": 8600.0,
+        "compare_at_price": 9100.0,
+        "sku": "40053370",
+        "available": true,
+        "options": {
+          "Color": "Ombre 1/900"
+        }
+      },
+      {
+        "option_title": "30/33",
+        "price": 8600.0,
+        "compare_at_price": null,
+        "sku": "40053363",
+        "available": false,
+        "options": {
+          "Color": "30/33"
+        }
+      },
+      {
+        "option_title": "30",
+        "price": 8600.0,
+        "compare_at_price": null,
+        "sku": "40053359",
+        "available": false,
+        "options": {
+          "Color": "30"
+        }
+      }
+    ],
+    "option_names": [
+      "Color"
+    ],
+    "option_values": {
+      "Color": [
+        "1",
+        "1/27",
+        "1/27 Ombre",
+        "1/30",
+        "1/900",
+        "1/Gold",
+        "30",
+        "30/33",
+        "CAFE",
+        "FRUITY",
+        "Ombre 1/900",
+        "Spice Gold"
+      ]
+    }
+  },
+  {
+    "collection": "darling",
+    "title": "Darling Kinky Straight Wrap Pony",
+    "url": "https://thedivashop.ng/products/darling-kinky-straight-wrap-pony",
+    "price": 5300.0,
+    "compare_at_price": null,
+    "currency": "NGN",
+    "description": "Use TCB Oil Sheen spray to maintain style and restore shine. Allow spray to air dry completely. Ensure you use a bonnet to cover your hair extensions night. Use a paddle brush to keep your pony straight. Store in product pack after use.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/STRTWRPPONY_1.png",
+      "https://thedivashop.ng/cdn/shop/products/KINKWRPPNY_1.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "1",
+        "price": 5300.0,
+        "compare_at_price": null,
+        "sku": "40053998",
+        "available": true,
+        "options": {
+          "Color": "1"
+        }
+      },
+      {
+        "option_title": "2",
+        "price": 5300.0,
+        "compare_at_price": null,
+        "sku": "40053999",
+        "available": false,
+        "options": {
+          "Color": "2"
+        }
+      },
+      {
+        "option_title": "27",
+        "price": 5300.0,
+        "compare_at_price": null,
+        "sku": "40054001",
+        "available": false,
+        "options": {
+          "Color": "27"
+        }
+      },
+      {
+        "option_title": "33",
+        "price": 5300.0,
+        "compare_at_price": null,
+        "sku": "40054002",
+        "available": false,
+        "options": {
+          "Color": "33"
+        }
+      },
+      {
+        "option_title": "4",
+        "price": 5300.0,
+        "compare_at_price": null,
+        "sku": "40054000",
+        "available": false,
+        "options": {
+          "Color": "4"
+        }
+      },
+      {
+        "option_title": "1/33",
+        "price": 5300.0,
+        "compare_at_price": null,
+        "sku": "FGWIDAKP1008",
+        "available": false,
+        "options": {
+          "Color": "1/33"
+        }
+      }
+    ],
+    "option_names": [
+      "Color"
+    ],
+    "option_values": {
+      "Color": [
+        "1",
+        "1/33",
+        "2",
+        "27",
+        "33",
+        "4"
+      ]
+    }
+  },
+  {
+    "collection": "darling",
+    "title": "Darling Natural Twist",
+    "url": "https://thedivashop.ng/products/darling-natural-twist",
+    "price": 3400.0,
+    "compare_at_price": 4000.0,
+    "currency": "NGN",
+    "description": "Use TCB Oil Sheen occasionally to ensure the products last long. Use your fingers to detangle the hair instead of combing. Mousse can be applied occasionally to add extra volume to your hair. Trim a few weeks after installation for regular maintenance. Wear a satin bonnet at night for retaining the moisture.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/NaturalTwist.png",
+      "https://thedivashop.ng/cdn/shop/products/natural_twist.jpg"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "1",
+        "price": 3400.0,
+        "compare_at_price": 4000.0,
+        "sku": "40052253",
+        "available": true,
+        "options": {
+          "Color": "1"
+        }
+      },
+      {
+        "option_title": "27",
+        "price": 3400.0,
+        "compare_at_price": 4000.0,
+        "sku": "40053713",
+        "available": true,
+        "options": {
+          "Color": "27"
+        }
+      },
+      {
+        "option_title": "30",
+        "price": 3400.0,
+        "compare_at_price": 4000.0,
+        "sku": "40053705",
+        "available": true,
+        "options": {
+          "Color": "30"
+        }
+      },
+      {
+        "option_title": "33",
+        "price": 3400.0,
+        "compare_at_price": 4000.0,
+        "sku": "40053714",
+        "available": false,
+        "options": {
+          "Color": "33"
+        }
+      },
+      {
+        "option_title": "900",
+        "price": 3400.0,
+        "compare_at_price": 4000.0,
+        "sku": "40053715",
+        "available": true,
+        "options": {
+          "Color": "900"
+        }
+      },
+      {
+        "option_title": "1B",
+        "price": 3400.0,
+        "compare_at_price": 4000.0,
+        "sku": "40053356",
+        "available": true,
+        "options": {
+          "Color": "1B"
+        }
+      },
+      {
+        "option_title": "GOLD",
+        "price": 3400.0,
+        "compare_at_price": 4000.0,
+        "sku": "40053362",
+        "available": false,
+        "options": {
+          "Color": "GOLD"
+        }
+      },
+      {
+        "option_title": "GINGER",
+        "price": 3400.0,
+        "compare_at_price": 4000.0,
+        "sku": "40058382",
+        "available": true,
+        "options": {
+          "Color": "GINGER"
+        }
+      }
+    ],
+    "option_names": [
+      "Color"
+    ],
+    "option_values": {
+      "Color": [
+        "1",
+        "1B",
+        "27",
+        "30",
+        "33",
+        "900",
+        "GINGER",
+        "GOLD"
+      ]
+    }
+  },
+  {
+    "collection": "darling",
+    "title": "Darling Natural Twist Long",
+    "url": "https://thedivashop.ng/products/darling-natural-twist-long",
+    "price": 4320.0,
+    "compare_at_price": 4800.0,
+    "currency": "NGN",
+    "description": "Use TCB Oil Sheen occasionally to ensure the products last long. Use your fingers to detangle the hair instead of combing. Mousse can be applied occasionally to add extra volume to your hair. Trim a few weeks after installation for regular maintenance. Wear a satin bonnet at night for retaining moisture.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/Natural-Twist-Long.png",
+      "https://thedivashop.ng/cdn/shop/products/Natural-Twist-Long-222.jpg"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "1",
+        "price": 4320.0,
+        "compare_at_price": 4800.0,
+        "sku": "40056949",
+        "available": true,
+        "options": {
+          "Color": "1"
+        }
+      },
+      {
+        "option_title": "1/27",
+        "price": 4320.0,
+        "compare_at_price": 4800.0,
+        "sku": "40053385",
+        "available": true,
+        "options": {
+          "Color": "1/27"
+        }
+      },
+      {
+        "option_title": "27",
+        "price": 4320.0,
+        "compare_at_price": 4800.0,
+        "sku": "40053389",
+        "available": true,
+        "options": {
+          "Color": "27"
+        }
+      },
+      {
+        "option_title": "30",
+        "price": 4320.0,
+        "compare_at_price": 4800.0,
+        "sku": "40056945",
+        "available": true,
+        "options": {
+          "Color": "30"
+        }
+      },
+      {
+        "option_title": "1/900",
+        "price": 4320.0,
+        "compare_at_price": 4800.0,
+        "sku": "40053386",
+        "available": false,
+        "options": {
+          "Color": "1/900"
+        }
+      }
+    ],
+    "option_names": [
+      "Color"
+    ],
+    "option_values": {
+      "Color": [
+        "1",
+        "1/27",
+        "1/900",
+        "27",
+        "30"
+      ]
+    }
+  },
+  {
+    "collection": "darling",
+    "title": "Darling Super Soft",
+    "url": "https://thedivashop.ng/products/darling-super-soft",
+    "price": 5700.0,
+    "compare_at_price": 6800.0,
+    "currency": null,
+    "description": null,
+    "images": [],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "1",
+        "price": 5700.0,
+        "compare_at_price": 6800.0,
+        "sku": "40052267",
+        "available": true,
+        "options": {
+          "Color": "1"
+        }
+      },
+      {
+        "option_title": "2",
+        "price": 5700.0,
+        "compare_at_price": 6800.0,
+        "sku": "40052912",
+        "available": false,
+        "options": {
+          "Color": "2"
+        }
+      },
+      {
+        "option_title": "27",
+        "price": 5700.0,
+        "compare_at_price": 6800.0,
+        "sku": "40052913",
+        "available": true,
+        "options": {
+          "Color": "27"
+        }
+      },
+      {
+        "option_title": "30",
+        "price": 5700.0,
+        "compare_at_price": 6800.0,
+        "sku": "40052499",
+        "available": true,
+        "options": {
+          "Color": "30"
+        }
+      },
+      {
+        "option_title": "33",
+        "price": 5700.0,
+        "compare_at_price": 6800.0,
+        "sku": "40052504",
+        "available": true,
+        "options": {
+          "Color": "33"
+        }
+      },
+      {
+        "option_title": "35",
+        "price": 5700.0,
+        "compare_at_price": 6800.0,
+        "sku": "40052500",
+        "available": true,
+        "options": {
+          "Color": "35"
+        }
+      },
+      {
+        "option_title": "39",
+        "price": 5700.0,
+        "compare_at_price": 6800.0,
+        "sku": "40052512",
+        "available": true,
+        "options": {
+          "Color": "39"
+        }
+      },
+      {
+        "option_title": "60",
+        "price": 5700.0,
+        "compare_at_price": 6800.0,
+        "sku": "40052513",
+        "available": true,
+        "options": {
+          "Color": "60"
+        }
+      },
+      {
+        "option_title": "340",
+        "price": 5700.0,
+        "compare_at_price": 6800.0,
+        "sku": "40052511",
+        "available": true,
+        "options": {
+          "Color": "340"
+        }
+      },
+      {
+        "option_title": "350",
+        "price": 5700.0,
+        "compare_at_price": 6800.0,
+        "sku": "40052501",
+        "available": true,
+        "options": {
+          "Color": "350"
+        }
+      },
+      {
+        "option_title": "D 13",
+        "price": 5700.0,
+        "compare_at_price": 6800.0,
+        "sku": "40052519",
+        "available": true,
+        "options": {
+          "Color": "D 13"
+        }
+      },
+      {
+        "option_title": "BLUE",
+        "price": 5700.0,
+        "compare_at_price": 6800.0,
+        "sku": "40052518",
+        "available": true,
+        "options": {
+          "Color": "BLUE"
+        }
+      },
+      {
+        "option_title": "BG 900",
+        "price": 5700.0,
+        "compare_at_price": 6800.0,
+        "sku": "40052517",
+        "available": true,
+        "options": {
+          "Color": "BG 900"
+        }
+      },
+      {
+        "option_title": "GOLD",
+        "price": 5700.0,
+        "compare_at_price": 6800.0,
+        "sku": "40052520",
+        "available": true,
+        "options": {
+          "Color": "GOLD"
+        }
+      },
+      {
+        "option_title": "PURPLE",
+        "price": 5700.0,
+        "compare_at_price": 6800.0,
+        "sku": "40052523",
+        "available": true,
+        "options": {
+          "Color": "PURPLE"
+        }
+      },
+      {
+        "option_title": "SILVER",
+        "price": 5700.0,
+        "compare_at_price": 6800.0,
+        "sku": "40052521",
+        "available": true,
+        "options": {
+          "Color": "SILVER"
+        }
+      },
+      {
+        "option_title": "T-BLUE",
+        "price": 5700.0,
+        "compare_at_price": 6800.0,
+        "sku": "40052522",
+        "available": true,
+        "options": {
+          "Color": "T-BLUE"
+        }
+      },
+      {
+        "option_title": "WHITE",
+        "price": 5700.0,
+        "compare_at_price": 6800.0,
+        "sku": "40052524",
+        "available": true,
+        "options": {
+          "Color": "WHITE"
+        }
+      },
+      {
+        "option_title": "PINK",
+        "price": 5700.0,
+        "compare_at_price": 6800.0,
+        "sku": "40052526",
+        "available": true,
+        "options": {
+          "Color": "PINK"
+        }
+      },
+      {
+        "option_title": "METALLIC GREY",
+        "price": 5700.0,
+        "compare_at_price": 6800.0,
+        "sku": "",
+        "available": false,
+        "options": {
+          "Color": "METALLIC GREY"
+        }
+      }
+    ],
+    "option_names": [
+      "Color"
+    ],
+    "option_values": {
+      "Color": [
+        "1",
+        "2",
+        "27",
+        "30",
+        "33",
+        "340",
+        "35",
+        "350",
+        "39",
+        "60",
+        "BG 900",
+        "BLUE",
+        "D 13",
+        "GOLD",
+        "METALLIC GREY",
+        "PINK",
+        "PURPLE",
+        "SILVER",
+        "T-BLUE",
+        "WHITE"
+      ]
+    }
+  },
+  {
+    "collection": "darling",
+    "title": "Darling Passion Twist",
+    "url": "https://thedivashop.ng/products/passion-twist",
+    "price": 4400.0,
+    "compare_at_price": 4900.0,
+    "currency": "NGN",
+    "description": "Apply TCB Oil Sheen occasionally to ensure the product lasts longer. We recommend the use of mousse to add volume to your hair. Trim a few weeks after installation for regular maintenance. Wear a satin bonnet at night for retaining the moisture.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/Passion_Twist_1-350.jpg",
+      "https://thedivashop.ng/cdn/shop/products/PassionTwist27.jpg",
+      "https://thedivashop.ng/cdn/shop/products/Passion-Twist.png",
+      "https://thedivashop.ng/cdn/shop/products/passion_twist.jpg",
+      "https://thedivashop.ng/cdn/shop/products/Darling-Passion-Twist-DBG_496376ec-ee60-494b-bf93-5877ff598324.jpg",
+      "https://thedivashop.ng/cdn/shop/products/PassionTwist1-blue.jpg",
+      "https://thedivashop.ng/cdn/shop/products/Passion-Twist-02.png",
+      "https://thedivashop.ng/cdn/shop/products/Passion-Twist-T1-White.png",
+      "https://thedivashop.ng/cdn/shop/products/Passion-Twist-1-Teal.png",
+      "https://thedivashop.ng/cdn/shop/products/PassionTwist1-gold.jpg",
+      "https://thedivashop.ng/cdn/shop/products/DarlingPassionTwist.jpg",
+      "https://thedivashop.ng/cdn/shop/products/Darling-Passion-Twist-Color-33-27.jpg",
+      "https://thedivashop.ng/cdn/shop/products/PassionTwist1-900.jpg",
+      "https://thedivashop.ng/cdn/shop/products/PassionTwist1V.jpg",
+      "https://thedivashop.ng/cdn/shop/products/Darling-Passion-Twist-Color-1.jpg",
+      "https://thedivashop.ng/cdn/shop/products/Darling-Passion-Twist-Color-1-350.jpg"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "1 / Big",
+        "price": 7100.0,
+        "compare_at_price": 7900.0,
+        "sku": "40053464",
+        "available": true,
+        "options": {
+          "Color": "1",
+          "Size": "Big"
+        }
+      },
+      {
+        "option_title": "1 / Small",
+        "price": 4400.0,
+        "compare_at_price": 4900.0,
+        "sku": "40053416",
+        "available": true,
+        "options": {
+          "Color": "1",
+          "Size": "Small"
+        }
+      },
+      {
+        "option_title": "2 / Small",
+        "price": 4400.0,
+        "compare_at_price": 4900.0,
+        "sku": "40053447",
+        "available": false,
+        "options": {
+          "Color": "2",
+          "Size": "Small"
+        }
+      },
+      {
+        "option_title": "DBG / Big",
+        "price": 7100.0,
+        "compare_at_price": 7900.0,
+        "sku": "40053495",
+        "available": false,
+        "options": {
+          "Color": "DBG",
+          "Size": "Big"
+        }
+      },
+      {
+        "option_title": "DBG / Small",
+        "price": 4400.0,
+        "compare_at_price": 4900.0,
+        "sku": "40053445",
+        "available": false,
+        "options": {
+          "Color": "DBG",
+          "Size": "Small"
+        }
+      },
+      {
+        "option_title": "1/TEAL / Small",
+        "price": 4400.0,
+        "compare_at_price": 4900.0,
+        "sku": "40053480",
+        "available": true,
+        "options": {
+          "Color": "1/TEAL",
+          "Size": "Small"
+        }
+      },
+      {
+        "option_title": "1/WHITE / Big",
+        "price": 7100.0,
+        "compare_at_price": 7900.0,
+        "sku": "40053501",
+        "available": false,
+        "options": {
+          "Color": "1/WHITE",
+          "Size": "Big"
+        }
+      },
+      {
+        "option_title": "1V / Big",
+        "price": 7100.0,
+        "compare_at_price": 7900.0,
+        "sku": "40053465",
+        "available": false,
+        "options": {
+          "Color": "1V",
+          "Size": "Big"
+        }
+      },
+      {
+        "option_title": "1V / Small",
+        "price": 4400.0,
+        "compare_at_price": 4900.0,
+        "sku": "40053436",
+        "available": true,
+        "options": {
+          "Color": "1V",
+          "Size": "Small"
+        }
+      },
+      {
+        "option_title": "T-1/GOLD / Big",
+        "price": 7100.0,
+        "compare_at_price": 7900.0,
+        "sku": "40053486",
+        "available": true,
+        "options": {
+          "Color": "T-1/GOLD",
+          "Size": "Big"
+        }
+      },
+      {
+        "option_title": "T-1/GOLD / Small",
+        "price": 4400.0,
+        "compare_at_price": 4900.0,
+        "sku": "40053451",
+        "available": true,
+        "options": {
+          "Color": "T-1/GOLD",
+          "Size": "Small"
+        }
+      },
+      {
+        "option_title": "30 / Big",
+        "price": 7100.0,
+        "compare_at_price": 7900.0,
+        "sku": "40053469",
+        "available": true,
+        "options": {
+          "Color": "30",
+          "Size": "Big"
+        }
+      },
+      {
+        "option_title": "1G / Big",
+        "price": 7100.0,
+        "compare_at_price": 7900.0,
+        "sku": "40053481",
+        "available": false,
+        "options": {
+          "Color": "1G",
+          "Size": "Big"
+        }
+      },
+      {
+        "option_title": "27 / Small",
+        "price": 4400.0,
+        "compare_at_price": 4900.0,
+        "sku": "40053440",
+        "available": true,
+        "options": {
+          "Color": "27",
+          "Size": "Small"
+        }
+      },
+      {
+        "option_title": "33 / Small",
+        "price": 4400.0,
+        "compare_at_price": 4900.0,
+        "sku": "40053441",
+        "available": false,
+        "options": {
+          "Color": "33",
+          "Size": "Small"
+        }
+      },
+      {
+        "option_title": "T-1/WHITE / Small",
+        "price": 4400.0,
+        "compare_at_price": 4900.0,
+        "sku": "",
+        "available": false,
+        "options": {
+          "Color": "T-1/WHITE",
+          "Size": "Small"
+        }
+      },
+      {
+        "option_title": "T-1/350 / Small",
+        "price": 4400.0,
+        "compare_at_price": 4900.0,
+        "sku": "40053437",
+        "available": false,
+        "options": {
+          "Color": "T-1/350",
+          "Size": "Small"
+        }
+      },
+      {
+        "option_title": "T-1/BLUE / Small",
+        "price": 4400.0,
+        "compare_at_price": 4900.0,
+        "sku": "FGWEDAPT0015",
+        "available": false,
+        "options": {
+          "Color": "T-1/BLUE",
+          "Size": "Small"
+        }
+      },
+      {
+        "option_title": "T-1/900 / Small",
+        "price": 4400.0,
+        "compare_at_price": 4900.0,
+        "sku": "40053438",
+        "available": true,
+        "options": {
+          "Color": "T-1/900",
+          "Size": "Small"
+        }
+      },
+      {
+        "option_title": "T-1/TEAL / Big",
+        "price": 7100.0,
+        "compare_at_price": 7900.0,
+        "sku": "40053497",
+        "available": false,
+        "options": {
+          "Color": "T-1/TEAL",
+          "Size": "Big"
+        }
+      },
+      {
+        "option_title": "30 / Small",
+        "price": 4400.0,
+        "compare_at_price": 4900.0,
+        "sku": "40053458",
+        "available": false,
+        "options": {
+          "Color": "30",
+          "Size": "Small"
+        }
+      },
+      {
+        "option_title": "33/27T / Small",
+        "price": 4400.0,
+        "compare_at_price": 4900.0,
+        "sku": "40053439",
+        "available": false,
+        "options": {
+          "Color": "33/27T",
+          "Size": "Small"
+        }
+      },
+      {
+        "option_title": "1B / Small",
+        "price": 4400.0,
+        "compare_at_price": 4900.0,
+        "sku": "40053417",
+        "available": false,
+        "options": {
+          "Color": "1B",
+          "Size": "Small"
+        }
+      },
+      {
+        "option_title": "1BLUE T/ / Big",
+        "price": 7100.0,
+        "compare_at_price": 7900.0,
+        "sku": "40053502",
+        "available": false,
+        "options": {
+          "Color": "1BLUE T/",
+          "Size": "Big"
+        }
+      },
+      {
+        "option_title": "T-1/900 / Big",
+        "price": 7100.0,
+        "compare_at_price": 7900.0,
+        "sku": "40053496",
+        "available": false,
+        "options": {
+          "Color": "T-1/900",
+          "Size": "Big"
+        }
+      },
+      {
+        "option_title": "27 / Big",
+        "price": 7100.0,
+        "compare_at_price": 7900.0,
+        "sku": "40053470",
+        "available": true,
+        "options": {
+          "Color": "27",
+          "Size": "Big"
+        }
+      }
+    ],
+    "option_names": [
+      "Color",
+      "Size"
+    ],
+    "option_values": {
+      "Color": [
+        "1",
+        "1/TEAL",
+        "1/WHITE",
+        "1B",
+        "1BLUE T/",
+        "1G",
+        "1V",
+        "2",
+        "27",
+        "30",
+        "33",
+        "33/27T",
+        "DBG",
+        "T-1/350",
+        "T-1/900",
+        "T-1/BLUE",
+        "T-1/GOLD",
+        "T-1/TEAL",
+        "T-1/WHITE"
+      ],
+      "Size": [
+        "Big",
+        "Small"
+      ]
+    }
+  },
+  {
+    "collection": "darling",
+    "title": "Darling Superstar",
+    "url": "https://thedivashop.ng/products/superstar",
+    "price": 4100.0,
+    "compare_at_price": 4800.0,
+    "currency": "NGN",
+    "description": "To add moisture and shine on your own hair and scalp use African Pride braid spray twice a week. Before going to bed wear a silk nightcap to prevent damage. Wear a swimming cap when swimming and if the hair comes into contact with the pool or sea water make sure to rinse the hair thoroughly before you condition and moisture.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/files/Curry_charm_M.png",
+      "https://thedivashop.ng/cdn/shop/products/Darling-Super-Star-Purple_1732846a-5be9-4b4f-8666-628bbb5fce7d.jpg",
+      "https://thedivashop.ng/cdn/shop/products/Dss-lightcaramel.png",
+      "https://thedivashop.ng/cdn/shop/files/Cocktail_Mix.png",
+      "https://thedivashop.ng/cdn/shop/files/Tumeric.png",
+      "https://thedivashop.ng/cdn/shop/products/DSS-Arizona_808ccf9d-dbe4-45e0-8221-c8b1daaf4de2.png",
+      "https://thedivashop.ng/cdn/shop/products/DSSRosewood.png",
+      "https://thedivashop.ng/cdn/shop/products/Darling-Super-Star-Teal_b35f8ccc-d666-407f-911a-a2dc11b0d83b.jpg",
+      "https://thedivashop.ng/cdn/shop/files/Copper_L.png",
+      "https://thedivashop.ng/cdn/shop/files/DSS_Black_Daimond.png",
+      "https://thedivashop.ng/cdn/shop/products/DSS-Rosy_bc050f8c-1c16-417a-8f31-9e07d3994c9b.png",
+      "https://thedivashop.ng/cdn/shop/products/Darling-Super-Star-350_e5884fcb-5c65-49c5-9c76-d3d6d63d87ea.jpg",
+      "https://thedivashop.ng/cdn/shop/products/DSS-Blush-Pink.png",
+      "https://thedivashop.ng/cdn/shop/products/DSS-CHAPMAN_c95d1f0a-447e-40b5-bf28-9d2c5e448a87.png",
+      "https://thedivashop.ng/cdn/shop/products/DSS-Metallic-Grey.png",
+      "https://thedivashop.ng/cdn/shop/products/DSSPinkberry.png",
+      "https://thedivashop.ng/cdn/shop/files/Arizona_L.png",
+      "https://thedivashop.ng/cdn/shop/files/Chocolate_L.png",
+      "https://thedivashop.ng/cdn/shop/files/Nutmeg_Mocha_M.png",
+      "https://thedivashop.ng/cdn/shop/files/Paprika_M.png",
+      "https://thedivashop.ng/cdn/shop/products/DSS-Navy_2f63c840-9039-4984-b1ba-40ed7b021c5f.png",
+      "https://thedivashop.ng/cdn/shop/files/613_L.png",
+      "https://thedivashop.ng/cdn/shop/products/Dss-LightPink.png",
+      "https://thedivashop.ng/cdn/shop/files/Scent_leafM.png",
+      "https://thedivashop.ng/cdn/shop/products/DSS-Chestnut_8a60f745-3f94-42bc-90d0-f008c6963d30.png",
+      "https://thedivashop.ng/cdn/shop/files/Stormy_L.png",
+      "https://thedivashop.ng/cdn/shop/products/DSS-Emerald_545a2a8c-3f92-4077-8efa-fa041702284f.png",
+      "https://thedivashop.ng/cdn/shop/files/Black_sesame_seed_M.png",
+      "https://thedivashop.ng/cdn/shop/products/Darling-Super-Star-Blue_b39be876-5792-4842-9882-0c482ce9c8ee.jpg",
+      "https://thedivashop.ng/cdn/shop/products/Light-Green.jpg",
+      "https://thedivashop.ng/cdn/shop/products/Lemon.jpg",
+      "https://thedivashop.ng/cdn/shop/products/Indigo-Bue.jpg",
+      "https://thedivashop.ng/cdn/shop/files/DSS_58f12a46-c051-4459-9e89-1a4efe01aa23.png",
+      "https://thedivashop.ng/cdn/shop/files/Golden_Orange_L.png",
+      "https://thedivashop.ng/cdn/shop/products/DSS-Mintgreen.png",
+      "https://thedivashop.ng/cdn/shop/products/DSS-24KGold.png",
+      "https://thedivashop.ng/cdn/shop/products/Darling-Super-Star-Orange_480a1f61-da7b-4bb6-9afa-1cb442d8056e.jpg",
+      "https://thedivashop.ng/cdn/shop/products/Ash.jpg",
+      "https://thedivashop.ng/cdn/shop/files/Sumac_spice.png",
+      "https://thedivashop.ng/cdn/shop/products/DSSSeaBlue.png",
+      "https://thedivashop.ng/cdn/shop/products/DSS-Camogreen.png",
+      "https://thedivashop.ng/cdn/shop/products/DSS-Cherry.png",
+      "https://thedivashop.ng/cdn/shop/products/Caramel.jpg",
+      "https://thedivashop.ng/cdn/shop/products/DSS-Twilight_3cc2db3c-8c52-41b1-b000-3e37b10bb86c.png",
+      "https://thedivashop.ng/cdn/shop/products/DSSSkyblue.png",
+      "https://thedivashop.ng/cdn/shop/files/Ginger_M.png",
+      "https://thedivashop.ng/cdn/shop/files/Black_Peppercorn_M.png",
+      "https://thedivashop.ng/cdn/shop/files/Uziza_Energy.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "1",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052270",
+        "available": true,
+        "options": {
+          "Color": "1"
+        }
+      },
+      {
+        "option_title": "Cocktail Mix",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40058988",
+        "available": true,
+        "options": {
+          "Color": "Cocktail Mix"
+        }
+      },
+      {
+        "option_title": "BLACK DIAMOND",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40056037",
+        "available": true,
+        "options": {
+          "Color": "BLACK DIAMOND"
+        }
+      },
+      {
+        "option_title": "2",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052591",
+        "available": true,
+        "options": {
+          "Color": "2"
+        }
+      },
+      {
+        "option_title": "4",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052639",
+        "available": true,
+        "options": {
+          "Color": "4"
+        }
+      },
+      {
+        "option_title": "27",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052606",
+        "available": true,
+        "options": {
+          "Color": "27"
+        }
+      },
+      {
+        "option_title": "30",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052607",
+        "available": true,
+        "options": {
+          "Color": "30"
+        }
+      },
+      {
+        "option_title": "33",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052614",
+        "available": true,
+        "options": {
+          "Color": "33"
+        }
+      },
+      {
+        "option_title": "35",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052624",
+        "available": false,
+        "options": {
+          "Color": "35"
+        }
+      },
+      {
+        "option_title": "39",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052638",
+        "available": true,
+        "options": {
+          "Color": "39"
+        }
+      },
+      {
+        "option_title": "350",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052616",
+        "available": true,
+        "options": {
+          "Color": "350"
+        }
+      },
+      {
+        "option_title": "D 13",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052631",
+        "available": true,
+        "options": {
+          "Color": "D 13"
+        }
+      },
+      {
+        "option_title": "BLUE",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052642",
+        "available": true,
+        "options": {
+          "Color": "BLUE"
+        }
+      },
+      {
+        "option_title": "BG 900",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052640",
+        "available": false,
+        "options": {
+          "Color": "BG 900"
+        }
+      },
+      {
+        "option_title": "GOLD",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052657",
+        "available": true,
+        "options": {
+          "Color": "GOLD"
+        }
+      },
+      {
+        "option_title": "IVORY",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052633",
+        "available": true,
+        "options": {
+          "Color": "IVORY"
+        }
+      },
+      {
+        "option_title": "MIDNIGHT BLUE",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052653",
+        "available": true,
+        "options": {
+          "Color": "MIDNIGHT BLUE"
+        }
+      },
+      {
+        "option_title": "ORANGE",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052643",
+        "available": true,
+        "options": {
+          "Color": "ORANGE"
+        }
+      },
+      {
+        "option_title": "PINK",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052668",
+        "available": true,
+        "options": {
+          "Color": "PINK"
+        }
+      },
+      {
+        "option_title": "PURPLE",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052669",
+        "available": false,
+        "options": {
+          "Color": "PURPLE"
+        }
+      },
+      {
+        "option_title": "RED",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052670",
+        "available": true,
+        "options": {
+          "Color": "RED"
+        }
+      },
+      {
+        "option_title": "SILVER",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052636",
+        "available": true,
+        "options": {
+          "Color": "SILVER"
+        }
+      },
+      {
+        "option_title": "T-BLUE",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052692",
+        "available": true,
+        "options": {
+          "Color": "T-BLUE"
+        }
+      },
+      {
+        "option_title": "WHITE",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052693",
+        "available": true,
+        "options": {
+          "Color": "WHITE"
+        }
+      },
+      {
+        "option_title": "1/PURPLE",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052601",
+        "available": true,
+        "options": {
+          "Color": "1/PURPLE"
+        }
+      },
+      {
+        "option_title": "1/SILVER",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052590",
+        "available": true,
+        "options": {
+          "Color": "1/SILVER"
+        }
+      },
+      {
+        "option_title": "DARLING PURPLE",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052632",
+        "available": true,
+        "options": {
+          "Color": "DARLING PURPLE"
+        }
+      },
+      {
+        "option_title": "TEAL",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052655",
+        "available": true,
+        "options": {
+          "Color": "TEAL"
+        }
+      },
+      {
+        "option_title": "33/27",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "FGBRDASS0038",
+        "available": false,
+        "options": {
+          "Color": "33/27"
+        }
+      },
+      {
+        "option_title": "LEMON",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052721",
+        "available": true,
+        "options": {
+          "Color": "LEMON"
+        }
+      },
+      {
+        "option_title": "SEA BLUE",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052709",
+        "available": true,
+        "options": {
+          "Color": "SEA BLUE"
+        }
+      },
+      {
+        "option_title": "LIGHT GREEN",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052706",
+        "available": true,
+        "options": {
+          "Color": "LIGHT GREEN"
+        }
+      },
+      {
+        "option_title": "SKY BLUE",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052719",
+        "available": true,
+        "options": {
+          "Color": "SKY BLUE"
+        }
+      },
+      {
+        "option_title": "CARAMEL",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052708",
+        "available": true,
+        "options": {
+          "Color": "CARAMEL"
+        }
+      },
+      {
+        "option_title": "GOLDEN ORANGE",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052729",
+        "available": true,
+        "options": {
+          "Color": "GOLDEN ORANGE"
+        }
+      },
+      {
+        "option_title": "ARIZONA",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052730",
+        "available": true,
+        "options": {
+          "Color": "ARIZONA"
+        }
+      },
+      {
+        "option_title": "CAMO GREEN",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052761",
+        "available": true,
+        "options": {
+          "Color": "CAMO GREEN"
+        }
+      },
+      {
+        "option_title": "CHAPMAN",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052732",
+        "available": true,
+        "options": {
+          "Color": "CHAPMAN"
+        }
+      },
+      {
+        "option_title": "CHERRY",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052715",
+        "available": true,
+        "options": {
+          "Color": "CHERRY"
+        }
+      },
+      {
+        "option_title": "CHESTNUT",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052718",
+        "available": true,
+        "options": {
+          "Color": "CHESTNUT"
+        }
+      },
+      {
+        "option_title": "EMERALD",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "FGBRDASS0156",
+        "available": false,
+        "options": {
+          "Color": "EMERALD"
+        }
+      },
+      {
+        "option_title": "NAVY",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "FGBRDASS0159",
+        "available": false,
+        "options": {
+          "Color": "NAVY"
+        }
+      },
+      {
+        "option_title": "51",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052625",
+        "available": true,
+        "options": {
+          "Color": "51"
+        }
+      },
+      {
+        "option_title": "613",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052711",
+        "available": false,
+        "options": {
+          "Color": "613"
+        }
+      },
+      {
+        "option_title": "RoyalBlue",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052635",
+        "available": true,
+        "options": {
+          "Color": "RoyalBlue"
+        }
+      },
+      {
+        "option_title": "COPPER",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052733",
+        "available": true,
+        "options": {
+          "Color": "COPPER"
+        }
+      },
+      {
+        "option_title": "1/GOLD",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052599",
+        "available": true,
+        "options": {
+          "Color": "1/GOLD"
+        }
+      },
+      {
+        "option_title": "RUBY PINK",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052782",
+        "available": true,
+        "options": {
+          "Color": "RUBY PINK"
+        }
+      },
+      {
+        "option_title": "30/33",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052592",
+        "available": true,
+        "options": {
+          "Color": "30/33"
+        }
+      },
+      {
+        "option_title": "GINGER",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40056035",
+        "available": true,
+        "options": {
+          "Color": "GINGER"
+        }
+      },
+      {
+        "option_title": "TUMERIC",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40056036",
+        "available": true,
+        "options": {
+          "Color": "TUMERIC"
+        }
+      },
+      {
+        "option_title": "BLACK SESAME SEED",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40057214",
+        "available": true,
+        "options": {
+          "Color": "BLACK SESAME SEED"
+        }
+      },
+      {
+        "option_title": "ONION NIGHT",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40057215",
+        "available": true,
+        "options": {
+          "Color": "ONION NIGHT"
+        }
+      },
+      {
+        "option_title": "PAPRIKA POP",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40057216",
+        "available": true,
+        "options": {
+          "Color": "PAPRIKA POP"
+        }
+      },
+      {
+        "option_title": "SUMAC SPICE",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40057217",
+        "available": false,
+        "options": {
+          "Color": "SUMAC SPICE"
+        }
+      },
+      {
+        "option_title": "BLACK PEPPER CORN",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40057218",
+        "available": true,
+        "options": {
+          "Color": "BLACK PEPPER CORN"
+        }
+      },
+      {
+        "option_title": "NUTMEG MOCHA",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40057219",
+        "available": true,
+        "options": {
+          "Color": "NUTMEG MOCHA"
+        }
+      },
+      {
+        "option_title": "UZIZZA ENERGY",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40057220",
+        "available": true,
+        "options": {
+          "Color": "UZIZZA ENERGY"
+        }
+      },
+      {
+        "option_title": "CURRY CHARM",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40057221",
+        "available": true,
+        "options": {
+          "Color": "CURRY CHARM"
+        }
+      },
+      {
+        "option_title": "SCENT LEAF",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40057222",
+        "available": true,
+        "options": {
+          "Color": "SCENT LEAF"
+        }
+      },
+      {
+        "option_title": "GARLIC GLAM",
+        "price": 4100.0,
+        "compare_at_price": 4800.0,
+        "sku": "40057223",
+        "available": true,
+        "options": {
+          "Color": "GARLIC GLAM"
+        }
+      }
+    ],
+    "option_names": [
+      "Color"
+    ],
+    "option_values": {
+      "Color": [
+        "1",
+        "1/GOLD",
+        "1/PURPLE",
+        "1/SILVER",
+        "2",
+        "27",
+        "30",
+        "30/33",
+        "33",
+        "33/27",
+        "35",
+        "350",
+        "39",
+        "4",
+        "51",
+        "613",
+        "ARIZONA",
+        "BG 900",
+        "BLACK PEPPER CORN",
+        "BLACK SESAME SEED",
+        "BLACK DIAMOND",
+        "BLUE",
+        "CAMO GREEN",
+        "CARAMEL",
+        "CHAPMAN",
+        "CHERRY",
+        "CHESTNUT",
+        "COPPER",
+        "CURRY CHARM",
+        "Cocktail Mix",
+        "D 13",
+        "DARLING PURPLE",
+        "EMERALD",
+        "GARLIC GLAM",
+        "GINGER",
+        "GOLD",
+        "GOLDEN ORANGE",
+        "IVORY",
+        "LEMON",
+        "LIGHT GREEN",
+        "MIDNIGHT BLUE",
+        "NAVY",
+        "NUTMEG MOCHA",
+        "ONION NIGHT",
+        "ORANGE",
+        "PAPRIKA POP",
+        "PINK",
+        "PURPLE",
+        "RED",
+        "RUBY PINK",
+        "RoyalBlue",
+        "SCENT LEAF",
+        "SEA BLUE",
+        "SILVER",
+        "SKY BLUE",
+        "SUMAC SPICE",
+        "T-BLUE",
+        "TEAL",
+        "TUMERIC",
+        "UZIZZA ENERGY",
+        "WHITE"
+      ]
+    }
+  },
+  {
+    "collection": "amigos",
+    "title": "Amigos Beauty Braids",
+    "url": "https://thedivashop.ng/products/amigos-beauty-braids",
+    "price": 1000.0,
+    "compare_at_price": null,
+    "currency": null,
+    "description": null,
+    "images": [],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "1 / 75g",
+        "price": 1000.0,
+        "compare_at_price": null,
+        "sku": "40052316",
+        "available": true,
+        "options": {
+          "Color": "1",
+          "Weight": "75g"
+        }
+      },
+      {
+        "option_title": "2 / 75g",
+        "price": 1000.0,
+        "compare_at_price": null,
+        "sku": "40052317",
+        "available": false,
+        "options": {
+          "Color": "2",
+          "Weight": "75g"
+        }
+      },
+      {
+        "option_title": "27 / 75g",
+        "price": 1000.0,
+        "compare_at_price": null,
+        "sku": "40052318",
+        "available": false,
+        "options": {
+          "Color": "27",
+          "Weight": "75g"
+        }
+      },
+      {
+        "option_title": "33 / 75g",
+        "price": 1000.0,
+        "compare_at_price": null,
+        "sku": "40052319",
+        "available": false,
+        "options": {
+          "Color": "33",
+          "Weight": "75g"
+        }
+      },
+      {
+        "option_title": "39 / 75g",
+        "price": 1000.0,
+        "compare_at_price": null,
+        "sku": "40052320",
+        "available": false,
+        "options": {
+          "Color": "39",
+          "Weight": "75g"
+        }
+      },
+      {
+        "option_title": "GREEN / 75g",
+        "price": 1000.0,
+        "compare_at_price": null,
+        "sku": "40052321",
+        "available": true,
+        "options": {
+          "Color": "GREEN",
+          "Weight": "75g"
+        }
+      },
+      {
+        "option_title": "ORANGE / 75g",
+        "price": 1000.0,
+        "compare_at_price": null,
+        "sku": "40052332",
+        "available": true,
+        "options": {
+          "Color": "ORANGE",
+          "Weight": "75g"
+        }
+      },
+      {
+        "option_title": "PURPLE / 75g",
+        "price": 1000.0,
+        "compare_at_price": null,
+        "sku": "40052322",
+        "available": true,
+        "options": {
+          "Color": "PURPLE",
+          "Weight": "75g"
+        }
+      }
+    ],
+    "option_names": [
+      "Color",
+      "Weight"
+    ],
+    "option_values": {
+      "Color": [
+        "1",
+        "2",
+        "27",
+        "33",
+        "39",
+        "GREEN",
+        "ORANGE",
+        "PURPLE"
+      ],
+      "Weight": [
+        "75g"
+      ]
+    }
+  },
+  {
+    "collection": "amigos",
+    "title": "Amigos Dancing Curl",
+    "url": "https://thedivashop.ng/products/amigos-dancing-curls",
+    "price": 5900.0,
+    "compare_at_price": null,
+    "currency": null,
+    "description": null,
+    "images": [],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "1 / 180g",
+        "price": 5900.0,
+        "compare_at_price": null,
+        "sku": "40052243",
+        "available": true,
+        "options": {
+          "Color": "1",
+          "Weight": "180g"
+        }
+      },
+      {
+        "option_title": "1/27 / 180g",
+        "price": 5900.0,
+        "compare_at_price": null,
+        "sku": "40053133",
+        "available": true,
+        "options": {
+          "Color": "1/27",
+          "Weight": "180g"
+        }
+      },
+      {
+        "option_title": "1/900 / 180g",
+        "price": 5900.0,
+        "compare_at_price": null,
+        "sku": "40053134",
+        "available": true,
+        "options": {
+          "Color": "1/900",
+          "Weight": "180g"
+        }
+      },
+      {
+        "option_title": "27 / 180g",
+        "price": 5900.0,
+        "compare_at_price": null,
+        "sku": "40053137",
+        "available": true,
+        "options": {
+          "Color": "27",
+          "Weight": "180g"
+        }
+      },
+      {
+        "option_title": "30 / 180g",
+        "price": 5900.0,
+        "compare_at_price": null,
+        "sku": "40053138",
+        "available": true,
+        "options": {
+          "Color": "30",
+          "Weight": "180g"
+        }
+      },
+      {
+        "option_title": "33 / 180g",
+        "price": 5900.0,
+        "compare_at_price": null,
+        "sku": "40053152",
+        "available": true,
+        "options": {
+          "Color": "33",
+          "Weight": "180g"
+        }
+      },
+      {
+        "option_title": "1/GOLD T / 180g",
+        "price": 5900.0,
+        "compare_at_price": null,
+        "sku": "40053140",
+        "available": true,
+        "options": {
+          "Color": "1/GOLD T",
+          "Weight": "180g"
+        }
+      },
+      {
+        "option_title": "1/PURPLE / 180g",
+        "price": 5900.0,
+        "compare_at_price": null,
+        "sku": "40053135",
+        "available": false,
+        "options": {
+          "Color": "1/PURPLE",
+          "Weight": "180g"
+        }
+      },
+      {
+        "option_title": "2 / 180g",
+        "price": 5900.0,
+        "compare_at_price": null,
+        "sku": "40053136",
+        "available": false,
+        "options": {
+          "Color": "2",
+          "Weight": "180g"
+        }
+      },
+      {
+        "option_title": "30/33 / 180g",
+        "price": 5900.0,
+        "compare_at_price": null,
+        "sku": "40053139",
+        "available": false,
+        "options": {
+          "Color": "30/33",
+          "Weight": "180g"
+        }
+      }
+    ],
+    "option_names": [
+      "Color",
+      "Weight"
+    ],
+    "option_values": {
+      "Color": [
+        "1",
+        "1/27",
+        "1/900",
+        "1/GOLD T",
+        "1/PURPLE",
+        "2",
+        "27",
+        "30",
+        "30/33",
+        "33"
+      ],
+      "Weight": [
+        "180g"
+      ]
+    }
+  },
+  {
+    "collection": "amigos",
+    "title": "Amigos Kinky",
+    "url": "https://thedivashop.ng/products/amigos-kinky",
+    "price": 3600.0,
+    "compare_at_price": null,
+    "currency": null,
+    "description": null,
+    "images": [],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "1 / 120g",
+        "price": 3600.0,
+        "compare_at_price": null,
+        "sku": "40053145",
+        "available": true,
+        "options": {
+          "Color": "1",
+          "Weight": "120g"
+        }
+      },
+      {
+        "option_title": "TEAL / 120g",
+        "price": 3600.0,
+        "compare_at_price": null,
+        "sku": "40053148",
+        "available": false,
+        "options": {
+          "Color": "TEAL",
+          "Weight": "120g"
+        }
+      },
+      {
+        "option_title": "1/YELLOW F / 120g",
+        "price": 3600.0,
+        "compare_at_price": null,
+        "sku": "40053161",
+        "available": true,
+        "options": {
+          "Color": "1/YELLOW F",
+          "Weight": "120g"
+        }
+      },
+      {
+        "option_title": "33 / 120g",
+        "price": 3600.0,
+        "compare_at_price": null,
+        "sku": "40053146",
+        "available": false,
+        "options": {
+          "Color": "33",
+          "Weight": "120g"
+        }
+      },
+      {
+        "option_title": "1/27F / 120g",
+        "price": 3600.0,
+        "compare_at_price": null,
+        "sku": "40053147",
+        "available": false,
+        "options": {
+          "Color": "1/27F",
+          "Weight": "120g"
+        }
+      },
+      {
+        "option_title": "1/GREY F / 120g",
+        "price": 3600.0,
+        "compare_at_price": null,
+        "sku": "40053149",
+        "available": false,
+        "options": {
+          "Color": "1/GREY F",
+          "Weight": "120g"
+        }
+      }
+    ],
+    "option_names": [
+      "Color",
+      "Weight"
+    ],
+    "option_values": {
+      "Color": [
+        "1",
+        "1/27F",
+        "1/GREY F",
+        "1/YELLOW F",
+        "33",
+        "TEAL"
+      ],
+      "Weight": [
+        "120g"
+      ]
+    }
+  },
+  {
+    "collection": "amigos",
+    "title": "Amigos Max Braids 7X",
+    "url": "https://thedivashop.ng/products/amigos-max-braids-7x",
+    "price": 5600.0,
+    "compare_at_price": 5900.0,
+    "currency": null,
+    "description": null,
+    "images": [],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "1 / 400g",
+        "price": 5600.0,
+        "compare_at_price": 5900.0,
+        "sku": "40052323",
+        "available": true,
+        "options": {
+          "Color": "1",
+          "Weight": "400g"
+        }
+      },
+      {
+        "option_title": "1/27 / 400g",
+        "price": 5600.0,
+        "compare_at_price": 5900.0,
+        "sku": "40052335",
+        "available": true,
+        "options": {
+          "Color": "1/27",
+          "Weight": "400g"
+        }
+      },
+      {
+        "option_title": "1/30 / 400g",
+        "price": 5600.0,
+        "compare_at_price": 5900.0,
+        "sku": "40052324",
+        "available": false,
+        "options": {
+          "Color": "1/30",
+          "Weight": "400g"
+        }
+      },
+      {
+        "option_title": "1/BG900 / 400g",
+        "price": 5600.0,
+        "compare_at_price": 5900.0,
+        "sku": "40052325",
+        "available": true,
+        "options": {
+          "Color": "1/BG900",
+          "Weight": "400g"
+        }
+      },
+      {
+        "option_title": "1/GOLD / 400g",
+        "price": 5600.0,
+        "compare_at_price": 5900.0,
+        "sku": "40052326",
+        "available": true,
+        "options": {
+          "Color": "1/GOLD",
+          "Weight": "400g"
+        }
+      },
+      {
+        "option_title": "1/TEAL / 400g",
+        "price": 5600.0,
+        "compare_at_price": 5900.0,
+        "sku": "40052329",
+        "available": true,
+        "options": {
+          "Color": "1/TEAL",
+          "Weight": "400g"
+        }
+      }
+    ],
+    "option_names": [
+      "Color",
+      "Weight"
+    ],
+    "option_values": {
+      "Color": [
+        "1",
+        "1/27",
+        "1/30",
+        "1/BG900",
+        "1/GOLD",
+        "1/TEAL"
+      ],
+      "Weight": [
+        "400g"
+      ]
+    }
+  },
+  {
+    "collection": "amigos",
+    "title": "Amigos One Million Braids",
+    "url": "https://thedivashop.ng/products/amigos-one-million-braids",
+    "price": 2000.0,
+    "compare_at_price": null,
+    "currency": null,
+    "description": null,
+    "images": [],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "1 / 105g",
+        "price": 2000.0,
+        "compare_at_price": null,
+        "sku": "40052347",
+        "available": false,
+        "options": {
+          "Color": "1",
+          "Weight": "105g"
+        }
+      },
+      {
+        "option_title": "27 / 105g",
+        "price": 2000.0,
+        "compare_at_price": null,
+        "sku": "40052358",
+        "available": false,
+        "options": {
+          "Color": "27",
+          "Weight": "105g"
+        }
+      },
+      {
+        "option_title": "30 / 105g",
+        "price": 2000.0,
+        "compare_at_price": null,
+        "sku": "40052359",
+        "available": false,
+        "options": {
+          "Color": "30",
+          "Weight": "105g"
+        }
+      },
+      {
+        "option_title": "340 / 105g",
+        "price": 2000.0,
+        "compare_at_price": null,
+        "sku": "40052348",
+        "available": false,
+        "options": {
+          "Color": "340",
+          "Weight": "105g"
+        }
+      },
+      {
+        "option_title": "35 / 105g",
+        "price": 2000.0,
+        "compare_at_price": null,
+        "sku": "40052361",
+        "available": false,
+        "options": {
+          "Color": "35",
+          "Weight": "105g"
+        }
+      },
+      {
+        "option_title": "39 / 105g",
+        "price": 2000.0,
+        "compare_at_price": null,
+        "sku": "40052363",
+        "available": true,
+        "options": {
+          "Color": "39",
+          "Weight": "105g"
+        }
+      },
+      {
+        "option_title": "4 / 105g",
+        "price": 2000.0,
+        "compare_at_price": null,
+        "sku": "40052349",
+        "available": false,
+        "options": {
+          "Color": "4",
+          "Weight": "105g"
+        }
+      },
+      {
+        "option_title": "D13 / 105g",
+        "price": 2000.0,
+        "compare_at_price": null,
+        "sku": "40052350",
+        "available": true,
+        "options": {
+          "Color": "D13",
+          "Weight": "105g"
+        }
+      },
+      {
+        "option_title": "PURPLE / 105g",
+        "price": 2000.0,
+        "compare_at_price": null,
+        "sku": "40052351",
+        "available": true,
+        "options": {
+          "Color": "PURPLE",
+          "Weight": "105g"
+        }
+      }
+    ],
+    "option_names": [
+      "Color",
+      "Weight"
+    ],
+    "option_values": {
+      "Color": [
+        "1",
+        "27",
+        "30",
+        "340",
+        "35",
+        "39",
+        "4",
+        "D13",
+        "PURPLE"
+      ],
+      "Weight": [
+        "105g"
+      ]
+    }
+  },
+  {
+    "collection": "amigos",
+    "title": "Amigos Sabi Braids",
+    "url": "https://thedivashop.ng/products/amigos-sabi-braids",
+    "price": 3600.0,
+    "compare_at_price": null,
+    "currency": null,
+    "description": null,
+    "images": [],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "1 / 230g",
+        "price": 3600.0,
+        "compare_at_price": null,
+        "sku": "40055944",
+        "available": true,
+        "options": {
+          "Color": "1",
+          "Weight": "230g"
+        }
+      },
+      {
+        "option_title": "33 / 230g",
+        "price": 3600.0,
+        "compare_at_price": null,
+        "sku": "40055945",
+        "available": false,
+        "options": {
+          "Color": "33",
+          "Weight": "230g"
+        }
+      },
+      {
+        "option_title": "PURPLE / 230g",
+        "price": 3600.0,
+        "compare_at_price": null,
+        "sku": "40055946",
+        "available": true,
+        "options": {
+          "Color": "PURPLE",
+          "Weight": "230g"
+        }
+      }
+    ],
+    "option_names": [
+      "Color",
+      "Weight"
+    ],
+    "option_values": {
+      "Color": [
+        "1",
+        "33",
+        "PURPLE"
+      ],
+      "Weight": [
+        "230g"
+      ]
+    }
+  },
+  {
+    "collection": "megagrowth",
+    "title": "Megagrowth 2-in-1 Wash Day Combo Value Pack 354ml + 354ml",
+    "url": "https://thedivashop.ng/products/megagrowth-2-in-1-wash-day-combo-value-pack-354ml",
+    "price": 2800.0,
+    "compare_at_price": 3300.0,
+    "currency": "NGN",
+    "description": "Take advantage of our MegaGrowth 2-in-1 Wash Day Combo Pack that makes Wash Days oh what fun! This pack includes one Stimulating Shampoo and a Conditioner. Say goodbye to dull, dry, and bad hair days. With so much lather and a divine scent, expect some amazing results and soft, supple hair after using this shampoo &amp;amp; conditioner combo pack. Styling Tips: Use with other MegaGrowth Regimen products for a wholesome#StrongNBeautiful Experience",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/PACK_1.png",
+      "https://thedivashop.ng/cdn/shop/products/VALUE_1.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "Default Title",
+        "price": 2800.0,
+        "compare_at_price": 3300.0,
+        "sku": "40050909",
+        "available": false,
+        "options": {
+          "Title": "Default Title"
+        }
+      }
+    ],
+    "option_names": [
+      "Title"
+    ],
+    "option_values": {
+      "Title": [
+        "Default Title"
+      ]
+    }
+  },
+  {
+    "collection": "megagrowth",
+    "title": "MegaGrowth Anti Dandruff Hair Superfood",
+    "url": "https://thedivashop.ng/products/megagrowth-anti-dandruff-hair-superfood",
+    "price": 1400.0,
+    "compare_at_price": 1500.0,
+    "currency": "NGN",
+    "description": "MegaGrowth Antidandruff Hair Superfood is specially formulated with coconut oil and menthol.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/files/Superfood_Anti_Dandruff.png",
+      "https://thedivashop.ng/cdn/shop/files/Superfood_Anti_Dandruff_Model.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "85 gm",
+        "price": 1400.0,
+        "compare_at_price": 1500.0,
+        "sku": "40057647",
+        "available": true,
+        "options": {
+          "Size": "85 gm"
+        }
+      },
+      {
+        "option_title": "212 gm",
+        "price": 2900.0,
+        "compare_at_price": 3100.0,
+        "sku": "40057646",
+        "available": true,
+        "options": {
+          "Size": "212 gm"
+        }
+      }
+    ],
+    "option_names": [
+      "Size"
+    ],
+    "option_values": {
+      "Size": [
+        "212 gm",
+        "85 gm"
+      ]
+    }
+  },
+  {
+    "collection": "megagrowth",
+    "title": "MegaGrowth Anti-Dandruff Shampoo",
+    "url": "https://thedivashop.ng/products/megagrowth-anti-dandruff-shampoo",
+    "price": 3200.0,
+    "compare_at_price": 3200.0,
+    "currency": "NGN",
+    "description": "Specially formulated with active ZPTO system Cleanses the hair &amp;amp; scalp of akes Prevents Itchiness and Scalp Sensitivity Restores Moisture &amp;amp; Hair Softness Prevents Dry hair Scalp\nStyling Tips\n\nWash with the Anti-Dandruff Shampoo fortnightly to get rid of flakes, itching to keep scalp clean and healthy.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/ANTIDANDRUFFSHAMPOO_1.png",
+      "https://thedivashop.ng/cdn/shop/products/ANT-DAND-SHAMP.jpg"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "Default Title",
+        "price": 3200.0,
+        "compare_at_price": 3200.0,
+        "sku": "40050917",
+        "available": true,
+        "options": {
+          "Title": "Default Title"
+        }
+      }
+    ],
+    "option_names": [
+      "Title"
+    ],
+    "option_values": {
+      "Title": [
+        "Default Title"
+      ]
+    }
+  },
+  {
+    "collection": "megagrowth",
+    "title": "MegaGrowth Anti-Dandruff Spray",
+    "url": "https://thedivashop.ng/products/megagrowth-anti-dandruff-spray",
+    "price": 2600.0,
+    "compare_at_price": 2600.0,
+    "currency": "NGN",
+    "description": "Specially formulated with an active 2% salicin system. This feel-good spray moisturizes your dry scalp and softens hair without weighing it down. Leaves your scalp feeling healthy &amp;amp; clean after every use. \nStyling Tips\n\nMaintain an itch and flake free scalp by applying the Anti-Dandruff Spray daily. Can be used on cornrows and braided hair.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/ANTIDANDRUFFSPRAY_1.png",
+      "https://thedivashop.ng/cdn/shop/products/ANT-DAND-SPRAY.jpg"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "Default Title",
+        "price": 2600.0,
+        "compare_at_price": 2600.0,
+        "sku": "40050918",
+        "available": false,
+        "options": {
+          "Title": "Default Title"
+        }
+      }
+    ],
+    "option_names": [
+      "Title"
+    ],
+    "option_values": {
+      "Title": [
+        "Default Title"
+      ]
+    }
+  },
+  {
+    "collection": "megagrowth",
+    "title": "MegaGrowth Anti-dandruff Value Pack",
+    "url": "https://thedivashop.ng/products/megagrowth-anti-dandruff-value-pack",
+    "price": 6400.0,
+    "compare_at_price": 7600.0,
+    "currency": "NGN",
+    "description": "Take advantage of our specially formulated Mega Growth Anti-Dandruff Hair Kit, made with an active Climbazole system. These add moisture and condition your hair. There are three anti-dandruff products in this anti-dandruff hair kit: an Anti-dandruff Spray, an Anti-dandruff Treatment, and an Anti-dandruff Shampoo. Using this product as directed will prevent scalp sensitivities, dandruff flakes, and itchiness. Regular use of our anti-dandruff kit leaves hair tangle-free, soft and silky.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/ANTIDANDRUFFTREATMENT_1_480x_c4ce0989-a5af-4ba3-a724-5c36afa96740.png",
+      "https://thedivashop.ng/cdn/shop/products/PROD-NO_bfe8b988-24b8-431c-9812-d45112ce8ac3.jpg",
+      "https://thedivashop.ng/cdn/shop/products/PACKFORDIVASHOP_1.png",
+      "https://thedivashop.ng/cdn/shop/products/ANTIDANDRUFFSHAMPOO_1_480x_8784a6fc-d348-4445-8aaa-7284f1e79d3b.png",
+      "https://thedivashop.ng/cdn/shop/products/ANTIDANDRUFFSPRAY_1_480x_00a6aab4-0780-4719-85d7-36a5002dc6e5.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "Default Title",
+        "price": 6400.0,
+        "compare_at_price": 7600.0,
+        "sku": "40053922",
+        "available": false,
+        "options": {
+          "Title": "Default Title"
+        }
+      }
+    ],
+    "option_names": [
+      "Title"
+    ],
+    "option_values": {
+      "Title": [
+        "Default Title"
+      ]
+    }
+  },
+  {
+    "collection": "megagrowth",
+    "title": "MegaGrowth Damage Protection Hair Superfood",
+    "url": "https://thedivashop.ng/products/megagrowth-damage-protection-hair-superfood",
+    "price": 1400.0,
+    "compare_at_price": 1500.0,
+    "currency": "NGN",
+    "description": "MegaGrowth Damage Protection Hair Superfood is formulated with a blend of rosemary leaf and castor oil.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/files/Superfood_Damage_Protection_Model.png",
+      "https://thedivashop.ng/cdn/shop/files/Superfood_Damage_Protection.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "85 gm",
+        "price": 1400.0,
+        "compare_at_price": 1500.0,
+        "sku": "40057649",
+        "available": true,
+        "options": {
+          "Size": "85 gm"
+        }
+      },
+      {
+        "option_title": "212 gm",
+        "price": 2900.0,
+        "compare_at_price": 3100.0,
+        "sku": "40057648",
+        "available": true,
+        "options": {
+          "Size": "212 gm"
+        }
+      }
+    ],
+    "option_names": [
+      "Size"
+    ],
+    "option_values": {
+      "Size": [
+        "212 gm",
+        "85 gm"
+      ]
+    }
+  },
+  {
+    "collection": "megagrowth",
+    "title": "MegaGrowth Detangling Conditioner 354ml",
+    "url": "https://thedivashop.ng/products/megagrowth-detangling-conditioner-354ml",
+    "price": 1600.0,
+    "compare_at_price": null,
+    "currency": "NGN",
+    "description": "MegaGrowth Detangling Conditioner defends against Breakage, Split-ends and Dryness by helping to restore hair natural shine and softness, detangle and improve manageability easily, provide vitality, body and bounce, strengthen and protect hair and also reduce time spent while combing the hair. \nStyling Tips\n\n\nUse with other MegaGrowth products to prevent split ends and breakage thereby achieving up to 100% stronger and longer hair.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/DET-COND.jpg",
+      "https://thedivashop.ng/cdn/shop/products/DCOND_1.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "Default Title",
+        "price": 1600.0,
+        "compare_at_price": null,
+        "sku": "40050920",
+        "available": true,
+        "options": {
+          "Title": "Default Title"
+        }
+      }
+    ],
+    "option_names": [
+      "Title"
+    ],
+    "option_values": {
+      "Title": [
+        "Default Title"
+      ]
+    }
+  },
+  {
+    "collection": "megagrowth",
+    "title": "Megagrowth Sensitive Care No-Lye Relaxer 7 Touch Up",
+    "url": "https://thedivashop.ng/products/megagrowth-sensitive-care-no-lye-relaxer-7-touch-up",
+    "price": 8600.0,
+    "compare_at_price": null,
+    "currency": "NGN",
+    "description": "MegaGrowth Sensitive Care No-Lye Relaxer is specially formulated with 25% more conditioning oils to provide Sensitive care and nourishment for Fine to Medium hair types.\nStyling Tips:\n\nNever pull, stretch or tug hair that has been freshly relaxed.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/2new.png",
+      "https://thedivashop.ng/cdn/shop/products/3new.png",
+      "https://thedivashop.ng/cdn/shop/products/4new.png",
+      "https://thedivashop.ng/cdn/shop/products/RELAX-NO_5caa77c5-5c31-4a64-a648-2ac432cd6673.jpg",
+      "https://thedivashop.ng/cdn/shop/products/new1.png",
+      "https://thedivashop.ng/cdn/shop/products/5new.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "Default Title",
+        "price": 8600.0,
+        "compare_at_price": null,
+        "sku": "40050916",
+        "available": false,
+        "options": {
+          "Title": "Default Title"
+        }
+      }
+    ],
+    "option_names": [
+      "Title"
+    ],
+    "option_values": {
+      "Title": [
+        "Default Title"
+      ]
+    }
+  },
+  {
+    "collection": "megagrowth",
+    "title": "MegaGrowth Stimulating Shampoo 354ml",
+    "url": "https://thedivashop.ng/products/megagrowth-stimulating-shampoo-354ml",
+    "price": 1700.0,
+    "compare_at_price": null,
+    "currency": "NGN",
+    "description": "Whatever your texture or hairstyle, MegaGrowth Stimulating Shampoo defends against breakage, split-ends and dryness by helping to restore softness and moisture, prevents dry hair and scalp, smooth, silken, and tame frizz which leaves the scalp with a minty cooling effect. It is excellent for relaxed, natural, pressed, and color-treated hair. Use with other MegaGrowth products to prevent split ends and breakage thereby achieving up to 100% stronger and longer hair.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/SSHAMP_1.png",
+      "https://thedivashop.ng/cdn/shop/products/STIM-SHAMP.jpg"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "Default Title",
+        "price": 1700.0,
+        "compare_at_price": null,
+        "sku": "40050908",
+        "available": true,
+        "options": {
+          "Title": "Default Title"
+        }
+      }
+    ],
+    "option_names": [
+      "Title"
+    ],
+    "option_values": {
+      "Title": [
+        "Default Title"
+      ]
+    }
+  },
+  {
+    "collection": "megagrowth",
+    "title": "MegaGrowth Break Free Leave-in Strengthener",
+    "url": "https://thedivashop.ng/products/mg-break-free-leave-in-strengthener",
+    "price": 1400.0,
+    "compare_at_price": 1700.0,
+    "currency": "NGN",
+    "description": "Get ready to break free from hair breakage with MegaGrowth Break Free Leave-in Strengthener! Our natural ingredients work together to nourish, moisturize, and protect your scalp and hair extensions from damage. Plus, this super affordable strengthener comes in an appealing packaging that will make you want to use it every day. Say goodbye to dandruff and build-up and enjoy a soft, fragrant, cream-colored mane with MegaGrowth BreakFree Leave-in Strengthener! Use in combination with our MegaGrowth Stimulating Shampoo and MegaGrowth Detangling Conditioner for best results!Styling Tips: Use a plastic cap or sit under the dryer for 10 minutes for deep penetrating...",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/LEAVE-IN.jpg",
+      "https://thedivashop.ng/cdn/shop/files/BREAKFREEMOCKUP_88_1024x10241_9e8537c2-9fce-4b2e-b986-3177c654558e.png",
+      "https://thedivashop.ng/cdn/shop/products/PROD-NO_b40527e6-8e8f-4264-8193-6f92e06bd139.jpg",
+      "https://thedivashop.ng/cdn/shop/products/MG-Info.jpg"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "250 gm",
+        "price": 1400.0,
+        "compare_at_price": 1700.0,
+        "sku": "40050922",
+        "available": true,
+        "options": {
+          "Size": "250 gm"
+        }
+      },
+      {
+        "option_title": "500gm",
+        "price": 2500.0,
+        "compare_at_price": 3000.0,
+        "sku": "40050921",
+        "available": true,
+        "options": {
+          "Size": "500gm"
+        }
+      }
+    ],
+    "option_names": [
+      "Size"
+    ],
+    "option_values": {
+      "Size": [
+        "250 gm",
+        "500gm"
+      ]
+    }
+  },
+  {
+    "collection": "megagrowth",
+    "title": "Megagrowth Deep Conditioner",
+    "url": "https://thedivashop.ng/products/mg-deep-conditioner",
+    "price": 1500.0,
+    "compare_at_price": null,
+    "currency": "NGN",
+    "description": "﻿MegaGrowth Deep Conditioner infuses an ultra-protective blend of natural oils and proteins that help strengthen hair inside out for longer, stronger and healthier looking hair.\nStyling Tips\n\n\nUse plastic cap or sit under dryer for 10minutes for deep penetrating heat activation. Rinse and style as desired.\n\n\nUse with other MegaGrowth products to prevent damage and breakage thereby achieving up to 100% stronger and longer hair.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/PROD-NO_5b66d3e3-b5f6-4ac6-8ae6-e2266d48961f.jpg",
+      "https://thedivashop.ng/cdn/shop/products/DP-COND.jpg",
+      "https://thedivashop.ng/cdn/shop/products/mega-growth-deep-conditioner-small.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "250 gm",
+        "price": 1500.0,
+        "compare_at_price": null,
+        "sku": "40050900",
+        "available": true,
+        "options": {
+          "Size": "250 gm"
+        }
+      },
+      {
+        "option_title": "500 gm",
+        "price": 2600.0,
+        "compare_at_price": null,
+        "sku": "40050910",
+        "available": true,
+        "options": {
+          "Size": "500 gm"
+        }
+      }
+    ],
+    "option_names": [
+      "Size"
+    ],
+    "option_values": {
+      "Size": [
+        "250 gm",
+        "500 gm"
+      ]
+    }
+  },
+  {
+    "collection": "megagrowth",
+    "title": "Profectiv Megagrowth for Kids Relaxer Regular (6Tup)",
+    "url": "https://thedivashop.ng/products/pro-mg-for-kids-relexer-regular-6tup",
+    "price": 7000.0,
+    "compare_at_price": 7800.0,
+    "currency": "NGN",
+    "description": "This MegaGrowth Crème on Crème Relaxer System includes an ultimate protective blend of natural oils and conditioning proteins in every step, helping to defend against breakage, split ends, and dryness. The MegaGrowth 3-step System enhances elasticity and movement, increasing the strength of relaxed hair by up to 100%. It is suitable for fine or medium hair and contains everything you need for hair that requires frequent touch-ups or relaxation. Provides silky-smooth straightening and healthy-looking results. Contains pre-measured sachets of crème activator, crème relaxer, neutralizing shampoo, and moisturizing conditioner.  Styling Tips Use with other MegaGrowth products to prevent damage and breakage...",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/MG-Kids.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "Default Title",
+        "price": 7000.0,
+        "compare_at_price": 7800.0,
+        "sku": "40050911",
+        "available": true,
+        "options": {
+          "Title": "Default Title"
+        }
+      }
+    ],
+    "option_names": [
+      "Title"
+    ],
+    "option_values": {
+      "Title": [
+        "Default Title"
+      ]
+    }
+  },
+  {
+    "collection": "megagrowth",
+    "title": "PRO MG REGULAR 12T + Breakfree Promo",
+    "url": "https://thedivashop.ng/products/pro-mg-regular-12t-breakfree-promo",
+    "price": 12400.0,
+    "compare_at_price": 14600.0,
+    "currency": null,
+    "description": null,
+    "images": [],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "Default Title",
+        "price": 12400.0,
+        "compare_at_price": 14600.0,
+        "sku": "40050906",
+        "available": false,
+        "options": {
+          "Title": "Default Title"
+        }
+      }
+    ],
+    "option_names": [
+      "Title"
+    ],
+    "option_values": {
+      "Title": [
+        "Default Title"
+      ]
+    }
+  },
+  {
+    "collection": "megagrowth",
+    "title": "Profectiv Megagrowth Regular 6 Touch Up Relaxer with Gel Neutralizing Shampoo",
+    "url": "https://thedivashop.ng/products/pro-mg-regular-6-touch-up-with-gel-neut-shampoo",
+    "price": 7400.0,
+    "compare_at_price": null,
+    "currency": "NGN",
+    "description": "This MegaGrowth Crème on Crème Relaxer System includes an ultimate protective blend of natural oils and conditioning proteins in every step, helping to defend against breakage, split-ends and dryness. The MegaGrowth 3-step System enhances elasticity and movement, increasing the strength of relaxed hair by up to 100%. It is suitable for fine or medium hair and contains everything you need for hair that requires frequent touch-ups or relaxing. Provides silky-smooth straightening and healthy-looking results. Contains pre-measured sachets of crème activator, crème relaxer, neutralizing shampoo and BreakFree leave-in strengthener. Styling Tips Use with other MegaGrowth products to prevent damage and breakage...",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/mega-growth-6pack-regular.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "Default Title",
+        "price": 7400.0,
+        "compare_at_price": null,
+        "sku": "40050901",
+        "available": true,
+        "options": {
+          "Title": "Default Title"
+        }
+      }
+    ],
+    "option_names": [
+      "Title"
+    ],
+    "option_values": {
+      "Title": [
+        "Default Title"
+      ]
+    }
+  },
+  {
+    "collection": "megagrowth",
+    "title": "PRO MG REGULAR 7 Tup + 1 with Neutralizing Shampoo",
+    "url": "https://thedivashop.ng/products/profectiv-megagrowth-regular-7-touch-up-relaxer-with-gel-neutralizing-shampoo",
+    "price": 8600.0,
+    "compare_at_price": null,
+    "currency": null,
+    "description": null,
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/mega-growth-7pack-regular_2cba70cd-7d92-4842-b807-5d040ff4e1b8_1024x1024.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "Default Title",
+        "price": 8600.0,
+        "compare_at_price": null,
+        "sku": "40053902",
+        "available": true,
+        "options": {
+          "Title": "Default Title"
+        }
+      }
+    ],
+    "option_names": [
+      "Title"
+    ],
+    "option_values": {
+      "Title": [
+        "Default Title"
+      ]
+    }
+  },
+  {
+    "collection": "megagrowth",
+    "title": "PRO MG SUPER 7 Tup + 1 with Neutralizing Shampoo",
+    "url": "https://thedivashop.ng/products/profectiv-megagrowth-super-7-touch-up-relaxer-with-gel-neutralizing-shampoo",
+    "price": 7800.0,
+    "compare_at_price": null,
+    "currency": null,
+    "description": null,
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/mega-growth-7pack-super_b626280d-81e5-4339-a293-31fd106d6fb2_1024x1024.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "Default Title",
+        "price": 7800.0,
+        "compare_at_price": null,
+        "sku": "40053903",
+        "available": true,
+        "options": {
+          "Title": "Default Title"
+        }
+      }
+    ],
+    "option_names": [
+      "Title"
+    ],
+    "option_values": {
+      "Title": [
+        "Default Title"
+      ]
+    }
+  },
+  {
+    "collection": "tcb-naturals",
+    "title": "TCB Naturals Anti-Dandruff Hair Food",
+    "url": "https://thedivashop.ng/products/tcb-naturals-anti-dandruff-hair-food",
+    "price": 940.0,
+    "compare_at_price": null,
+    "currency": "NGN",
+    "description": "Styling Tips\n\nMassage thoroughly into scalp and hair to allow for effective absorption. \n Use with other TCB Naturals products to effectively nourish hair and prevent breakage.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/TCBNaturalsAntidandruff250ml.png",
+      "https://thedivashop.ng/cdn/shop/products/TCBNaturalsAntiDandruff100ml.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "85g",
+        "price": 940.0,
+        "compare_at_price": null,
+        "sku": "40050938",
+        "available": true,
+        "options": {
+          "Size": "85g"
+        }
+      },
+      {
+        "option_title": "212g",
+        "price": 1800.0,
+        "compare_at_price": null,
+        "sku": "40050934",
+        "available": true,
+        "options": {
+          "Size": "212g"
+        }
+      },
+      {
+        "option_title": "500g",
+        "price": 3700.0,
+        "compare_at_price": null,
+        "sku": "40053936",
+        "available": true,
+        "options": {
+          "Size": "500g"
+        }
+      }
+    ],
+    "option_names": [
+      "Size"
+    ],
+    "option_values": {
+      "Size": [
+        "212g",
+        "500g",
+        "85g"
+      ]
+    }
+  },
+  {
+    "collection": "tcb-naturals",
+    "title": "TCB Naturals Herbal Pomade",
+    "url": "https://thedivashop.ng/products/tcb-naturals-herbal-pomade",
+    "price": 900.0,
+    "compare_at_price": null,
+    "currency": "NGN",
+    "description": "TCB Naturals Herbal Pomade supplies deep hydration to the scalp, helping to lock in moisture and prevent dryness and flaking. Its blend of natural ingredients ensures long-lasting scalp hydration, helping protect from damage and protect healthy hair.\nStyling Tips: \n\nMassage thoroughly into the scalp and allow for effective absorption. \nUse with other TCB Naturals products to effectively nourish hair and prevent breakage.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/TCBNaturalsHerbalPomade212g.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "85g",
+        "price": 900.0,
+        "compare_at_price": null,
+        "sku": "40050935",
+        "available": true,
+        "options": {
+          "Size": "85g"
+        }
+      },
+      {
+        "option_title": "212g",
+        "price": 1800.0,
+        "compare_at_price": null,
+        "sku": "40050933",
+        "available": true,
+        "options": {
+          "Size": "212g"
+        }
+      }
+    ],
+    "option_names": [
+      "Size"
+    ],
+    "option_values": {
+      "Size": [
+        "212g",
+        "85g"
+      ]
+    }
+  },
+  {
+    "collection": "tcb-naturals",
+    "title": "TCB Naturals Indian Herbs Hair Food",
+    "url": "https://thedivashop.ng/products/tcb-naturals-indian-herbs-hair-food-85g",
+    "price": 1000.0,
+    "compare_at_price": null,
+    "currency": "NGN",
+    "description": "Styling Tips\n\nMassage thoroughly into scalp and hair to allow for effective absorption. \n Use with other TCB Naturals products to effectively nourish hair and prevent breakage.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/TCBNaturalsIndianHerbs212g.png",
+      "https://thedivashop.ng/cdn/shop/products/TCBNaturalsIndianHerbs85g.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "85g",
+        "price": 1000.0,
+        "compare_at_price": null,
+        "sku": "40050936",
+        "available": false,
+        "options": {
+          "Size": "85g"
+        }
+      },
+      {
+        "option_title": "212g",
+        "price": 1900.0,
+        "compare_at_price": null,
+        "sku": "40050937",
+        "available": false,
+        "options": {
+          "Size": "212g"
+        }
+      },
+      {
+        "option_title": "500g",
+        "price": 3600.0,
+        "compare_at_price": null,
+        "sku": "40053929",
+        "available": false,
+        "options": {
+          "Size": "500g"
+        }
+      }
+    ],
+    "option_names": [
+      "Size"
+    ],
+    "option_values": {
+      "Size": [
+        "212g",
+        "500g",
+        "85g"
+      ]
+    }
+  },
+  {
+    "collection": "tcb-naturals",
+    "title": "TCB Naturals Leave-in Treatment",
+    "url": "https://thedivashop.ng/products/tcb-naturals-leave-in-treatment",
+    "price": 1000.0,
+    "compare_at_price": null,
+    "currency": "NGN",
+    "description": "Styling Tips\n\nMassage thoroughly into hair for effective absorption. \nUse with other TCB Naturals products to effectively nourish hair and prevent breakage.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/TCBNaturalsLeave-InTreatment200ml.png",
+      "https://thedivashop.ng/cdn/shop/products/TCB-Naturals-Leave-In-Treatment-550ml.jpg"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "200ml",
+        "price": 1000.0,
+        "compare_at_price": null,
+        "sku": "40050931",
+        "available": true,
+        "options": {
+          "Size": "200ml"
+        }
+      },
+      {
+        "option_title": "550ml",
+        "price": 1600.0,
+        "compare_at_price": null,
+        "sku": "40050924",
+        "available": true,
+        "options": {
+          "Size": "550ml"
+        }
+      }
+    ],
+    "option_names": [
+      "Size"
+    ],
+    "option_values": {
+      "Size": [
+        "200ml",
+        "550ml"
+      ]
+    }
+  },
+  {
+    "collection": "tcb-naturals",
+    "title": "TCB Naturals No Base Creme Relaxer",
+    "url": "https://thedivashop.ng/products/tcb-naturals-no-base-creme-relaxer-212g",
+    "price": 1500.0,
+    "compare_at_price": null,
+    "currency": "NGN",
+    "description": "Styling Tips\n\nUse with other TCB Naturals products to effectively nourish hair and prevent breakage.\nNever pull, stretch or tug hair that has been freshly relaxed.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/TCB-Naturals-NoBase_1_3_1.png",
+      "https://thedivashop.ng/cdn/shop/products/TCB-Naturals-NoBase_01_1_1.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "212g",
+        "price": 1500.0,
+        "compare_at_price": null,
+        "sku": "40052286",
+        "available": true,
+        "options": {
+          "Size": "212g"
+        }
+      },
+      {
+        "option_title": "400g",
+        "price": 2000.0,
+        "compare_at_price": null,
+        "sku": "40052296",
+        "available": true,
+        "options": {
+          "Size": "400g"
+        }
+      }
+    ],
+    "option_names": [
+      "Size"
+    ],
+    "option_values": {
+      "Size": [
+        "212g",
+        "400g"
+      ]
+    }
+  },
+  {
+    "collection": "tcb-naturals",
+    "title": "TCB Naturals Nourishing Hair Food",
+    "url": "https://thedivashop.ng/products/tcb-naturals-nourishing-hair-food",
+    "price": 800.0,
+    "compare_at_price": null,
+    "currency": "NGN",
+    "description": "Styling Tips\n\nMassage a small amount to hair and allow for effective absorption. \n Use with other TCB Naturals products to effectively nourish hair and prevent breakage.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/TCBNaturalsHairFood85g.png",
+      "https://thedivashop.ng/cdn/shop/products/TCBNaturalsHairFood212g.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "85g",
+        "price": 800.0,
+        "compare_at_price": null,
+        "sku": "40052303",
+        "available": true,
+        "options": {
+          "Size": "85g"
+        }
+      },
+      {
+        "option_title": "212g",
+        "price": 1700.0,
+        "compare_at_price": null,
+        "sku": "40050932",
+        "available": false,
+        "options": {
+          "Size": "212g"
+        }
+      }
+    ],
+    "option_names": [
+      "Size"
+    ],
+    "option_values": {
+      "Size": [
+        "212g",
+        "85g"
+      ]
+    }
+  },
+  {
+    "collection": "tcb-naturals",
+    "title": "TCB Naturals Three Oil Sheen Spray",
+    "url": "https://thedivashop.ng/products/tcb-naturals-three-oil-sheen-spray",
+    "price": 7400.0,
+    "compare_at_price": null,
+    "currency": "NGN",
+    "description": "Unruly dry and frizzy hair? Our Three Oil Sheen Spray can help. It&#39;s a go-to remedy, that magically restores your hair&#39;s shine, making it look natural and healthy. Perfect with other TCB products to combat breakage and nourish deeply.\n- Instantly revitalize dry hair- Best for dry and frizzy hair- Just like home remedies to nourish and moisturize- Prevent breakage, re-nourish hair effectively\nStyling Tips\n\nSpray lightly onto hair, while holding can 10 - 12 inches away. \nUse with other TCB Naturals products to effectively nourish hair and prevent breakage.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/TCBNaturalsOilSheen450ml.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "Default Title",
+        "price": 7400.0,
+        "compare_at_price": null,
+        "sku": "40053930",
+        "available": true,
+        "options": {
+          "Title": "Default Title"
+        }
+      }
+    ],
+    "option_names": [
+      "Title"
+    ],
+    "option_values": {
+      "Title": [
+        "Default Title"
+      ]
+    }
+  },
+  {
+    "collection": "tcb-naturals",
+    "title": "TCB Combo Pack with a Free Salon Bag",
+    "url": "https://thedivashop.ng/products/tcb-salon-bag",
+    "price": 9290.0,
+    "compare_at_price": null,
+    "currency": null,
+    "description": null,
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/TCB-Salon-Bag-Offer-New-Latest-Without-Label_1024x1024.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "Default Title",
+        "price": 9290.0,
+        "compare_at_price": null,
+        "sku": "FGWHCOMBO005",
+        "available": false,
+        "options": {
+          "Title": "Default Title"
+        }
+      }
+    ],
+    "option_names": [
+      "Title"
+    ],
+    "option_values": {
+      "Title": [
+        "Default Title"
+      ]
+    }
+  },
+  {
+    "collection": "good-knight",
+    "title": "Goodknight Power Shots Multi Insect Spray",
+    "url": "https://thedivashop.ng/products/good-knight-power-shots",
+    "price": 2300.0,
+    "compare_at_price": 2735.0,
+    "currency": "NGN",
+    "description": "Introducing Goodknight Power Shots, the ultimate solution to your pest problems! Its advanced concentrated formula instantly acts against mosquitoes, cockroaches, ants, and flies, providing you with 8 hours of protection. Now you can enjoy precious family moments without any interruptions. Product Features: Instant action Long-lasting protection for up to 8 hours Endorsed by the Nigerian Medical Association Advanced concentrated formula without kerosene or gas A mild pleasant fragrance with no irritation One pack lasts for 50 nights per room with the recommended dosage How to Use: Step 1: Spray two shots in every corner of the room, including under the...",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/GKPRODUCTIMAGE2_1.png",
+      "https://thedivashop.ng/cdn/shop/products/26May20211_1.jpg",
+      "https://thedivashop.ng/cdn/shop/products/26May20214_1.jpg",
+      "https://thedivashop.ng/cdn/shop/products/GKPRODUCTIMAGE_1.png",
+      "https://thedivashop.ng/cdn/shop/products/26May20213_1.jpg",
+      "https://thedivashop.ng/cdn/shop/products/26May20212_1.jpg"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "Default Title",
+        "price": 2300.0,
+        "compare_at_price": 2735.0,
+        "sku": "40050923",
+        "available": true,
+        "options": {
+          "Title": "Default Title"
+        }
+      }
+    ],
+    "option_names": [
+      "Title"
+    ],
+    "option_values": {
+      "Title": [
+        "Default Title"
+      ]
+    }
+  },
+  {
+    "collection": "good-knight",
+    "title": "Goodknight Power Activ+ Combi Pack",
+    "url": "https://thedivashop.ng/products/goodknight-power-activ-combo-pack",
+    "price": 2400.0,
+    "compare_at_price": 2833.0,
+    "currency": "NGN",
+    "description": "Introducing the Goodknight Power Activ+ Combo Pack, your ultimate solution for complete protection from malaria and dengue-causing mosquitoes! This super saver pack includes one unit of the Goodknight Power Activ+ System and one liquid vapourizer refill containing 45ml.  HOW TO USE: The Power Activ+ refill is specially designed with 50% more Activ+ molecules, making it 50% more powerful than other mosquito repellents. You can use the normal mode when there are few mosquitoes and the Activ mode when there are many mosquitoes, thanks to the dual mode advantage. For the most effective results, use with the Goodknight Power Activ+ electric...",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/GKPowerActiv_Combipack_Final.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "Default Title",
+        "price": 2400.0,
+        "compare_at_price": 2833.0,
+        "sku": "40052158",
+        "available": true,
+        "options": {
+          "Title": "Default Title"
+        }
+      }
+    ],
+    "option_names": [
+      "Title"
+    ],
+    "option_values": {
+      "Title": [
+        "Default Title"
+      ]
+    }
+  },
+  {
+    "collection": "good-knight",
+    "title": "Goodknight Power Activ Refill",
+    "url": "https://thedivashop.ng/products/goodknight-power-activ-refill",
+    "price": 1600.0,
+    "compare_at_price": 1898.0,
+    "currency": "NGN",
+    "description": "Introducing the Goodknight Power Activ+ Mosquito Repellent Refill, now with 50% more Activ+ Molecules for an even more powerful defense against mosquitoes.\nTo achieve optimal results, it is recommended to use the Goodknight Power Activ+ electric plug-in machine in conjunction with this product. For fewer mosquitoes, switch to Normal mode, and for times when there is a large number of mosquitoes present, switch to Activ mode. Rest assured that the electric vaporizing machine is safe to use around children and families. However, please ensure that it is kept out of reach of children while in use.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/GKPowerActiv_Refill_Final.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "Default Title",
+        "price": 1600.0,
+        "compare_at_price": 1898.0,
+        "sku": "40052159",
+        "available": true,
+        "options": {
+          "Title": "Default Title"
+        }
+      }
+    ],
+    "option_names": [
+      "Title"
+    ],
+    "option_values": {
+      "Title": [
+        "Default Title"
+      ]
+    }
+  },
+  {
+    "collection": "aer-pocket",
+    "title": "Aer Power Pocket Berry Rush",
+    "url": "https://thedivashop.ng/products/aer-power-pocket-berry-rush",
+    "price": 800.0,
+    "compare_at_price": 1300.0,
+    "currency": null,
+    "description": null,
+    "images": [],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "Default Title",
+        "price": 800.0,
+        "compare_at_price": 1300.0,
+        "sku": "40055886",
+        "available": true,
+        "options": {
+          "Title": "Default Title"
+        }
+      }
+    ],
+    "option_names": [
+      "Title"
+    ],
+    "option_values": {
+      "Title": [
+        "Default Title"
+      ]
+    }
+  },
+  {
+    "collection": "aer-pocket",
+    "title": "Aer Power Pocket Jasmine Floral Delight",
+    "url": "https://thedivashop.ng/products/aer-power-pocket-jasmine-floral-d",
+    "price": 800.0,
+    "compare_at_price": 1300.0,
+    "currency": "NGN",
+    "description": "Introducing Godrej aer power pocket, range of bathroom fresheners that are available in 6 beautiful fragrances. This bathroom air freshener has a unique power gel technology that keeps the bathroom fragrant for up to 30 days. The odour neutralizer ensures a refreshing fragrance every time you step into the bathroom. It is easy to use and can be hung in the bathroom with the hook provided.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/files/05_APP_Jasmine.png",
+      "https://thedivashop.ng/cdn/shop/files/04_APP_Jasmine.png",
+      "https://thedivashop.ng/cdn/shop/files/02_APP_Jasmine.png",
+      "https://thedivashop.ng/cdn/shop/files/01_APP_Jasmine.png",
+      "https://thedivashop.ng/cdn/shop/files/03_APP_Jasmine.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "Default Title",
+        "price": 800.0,
+        "compare_at_price": 1300.0,
+        "sku": "40055888",
+        "available": true,
+        "options": {
+          "Title": "Default Title"
+        }
+      }
+    ],
+    "option_names": [
+      "Title"
+    ],
+    "option_values": {
+      "Title": [
+        "Default Title"
+      ]
+    }
+  },
+  {
+    "collection": "aer-pocket",
+    "title": "Aer Power Pocket Lavender Bloom",
+    "url": "https://thedivashop.ng/products/aer-power-pocket-lavender-bloom",
+    "price": 800.0,
+    "compare_at_price": 1300.0,
+    "currency": null,
+    "description": null,
+    "images": [],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "Default Title",
+        "price": 800.0,
+        "compare_at_price": 1300.0,
+        "sku": "40055887",
+        "available": true,
+        "options": {
+          "Title": "Default Title"
+        }
+      }
+    ],
+    "option_names": [
+      "Title"
+    ],
+    "option_values": {
+      "Title": [
+        "Default Title"
+      ]
+    }
+  },
+  {
+    "collection": "aer-pocket",
+    "title": "Aer Power Pocket Lemon Tangy Delight",
+    "url": "https://thedivashop.ng/products/aer-power-pocket-lemon-tangy-delight",
+    "price": 800.0,
+    "compare_at_price": 1300.0,
+    "currency": null,
+    "description": null,
+    "images": [],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "Default Title",
+        "price": 800.0,
+        "compare_at_price": 1300.0,
+        "sku": "40055889",
+        "available": false,
+        "options": {
+          "Title": "Default Title"
+        }
+      }
+    ],
+    "option_names": [
+      "Title"
+    ],
+    "option_values": {
+      "Title": [
+        "Default Title"
+      ]
+    }
+  },
+  {
+    "collection": "aer-pocket",
+    "title": "Aer Power Pocket Rose Fresh Blossom",
+    "url": "https://thedivashop.ng/products/aer-power-pocket-rose-fresh-blossom",
+    "price": 800.0,
+    "compare_at_price": 1300.0,
+    "currency": "NGN",
+    "description": "Introducing Godrej aer power pocket, range of bathroom fresheners that are available in 6 beautiful fragrances. This bathroom air freshener has a unique power gel technology that keeps the bathroom fragrant for up to 30 days. The odour neutralizer ensures a refreshing fragrance every time you step into the bathroom. It is easy to use and can be hung in the bathroom with the hook provided.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/files/05_APP_Rose.png",
+      "https://thedivashop.ng/cdn/shop/files/03_APP_Rose.png",
+      "https://thedivashop.ng/cdn/shop/files/02_APP_Rose.png",
+      "https://thedivashop.ng/cdn/shop/files/01_APP_Rose.png",
+      "https://thedivashop.ng/cdn/shop/files/04_APP_Rose.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "Default Title",
+        "price": 800.0,
+        "compare_at_price": 1300.0,
+        "sku": "40054054",
+        "available": true,
+        "options": {
+          "Title": "Default Title"
+        }
+      }
+    ],
+    "option_names": [
+      "Title"
+    ],
+    "option_values": {
+      "Title": [
+        "Default Title"
+      ]
+    }
+  },
+  {
+    "collection": "aer-pocket",
+    "title": "Aer Power Pocket Sea Breeze",
+    "url": "https://thedivashop.ng/products/aer-power-pocket-sea-breeze",
+    "price": 800.0,
+    "compare_at_price": 1300.0,
+    "currency": "NGN",
+    "description": "Introducing Godrej aer power pocket, range of bathroom fresheners that are available in 6 beautiful fragrances. This bathroom air freshener has a unique power gel technology that keeps the bathroom fragrant for up to 30 days. The odour neutralizer ensures a refreshing fragrance every time you step into the bathroom. It is easy to use and can be hung in the bathroom with the hook provided.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/files/05_APP_Sea.png",
+      "https://thedivashop.ng/cdn/shop/files/04_APP_Sea.png",
+      "https://thedivashop.ng/cdn/shop/files/02_APP_Sea.png",
+      "https://thedivashop.ng/cdn/shop/files/03_APP_Sea.png",
+      "https://thedivashop.ng/cdn/shop/files/01_APP_Sea.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "Default Title",
+        "price": 800.0,
+        "compare_at_price": 1300.0,
+        "sku": "40055885",
+        "available": true,
+        "options": {
+          "Title": "Default Title"
+        }
+      }
+    ],
+    "option_names": [
+      "Title"
+    ],
+    "option_values": {
+      "Title": [
+        "Default Title"
+      ]
+    }
+  },
+  {
+    "collection": "personal-care",
+    "title": "FreshGlow Moisturizing Soap - Milk & Apricot",
+    "url": "https://thedivashop.ng/products/freshglow-moisturizing-soap-milk-apricot",
+    "price": 1600.0,
+    "compare_at_price": null,
+    "currency": null,
+    "description": null,
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/Milk_Apricot_1024x1024.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "65g - Pack of 6",
+        "price": 1600.0,
+        "compare_at_price": null,
+        "sku": "40052176",
+        "available": true,
+        "options": {
+          "Size": "65g - Pack of 6"
+        }
+      },
+      {
+        "option_title": "150g - Pack of 4",
+        "price": 2700.0,
+        "compare_at_price": null,
+        "sku": "40052198",
+        "available": false,
+        "options": {
+          "Size": "150g - Pack of 4"
+        }
+      }
+    ],
+    "option_names": [
+      "Size"
+    ],
+    "option_values": {
+      "Size": [
+        "150g - Pack of 4",
+        "65g - Pack of 6"
+      ]
+    }
+  },
+  {
+    "collection": "personal-care",
+    "title": "FreshGlow Moisturizing Soap - Milk & Coconut Oil",
+    "url": "https://thedivashop.ng/products/freshglow-moisturizing-soap-milk-coconut-oil-65gm",
+    "price": 1600.0,
+    "compare_at_price": null,
+    "currency": "NGN",
+    "description": "FreshGlow Moisturizing Soap with Milk &amp;amp; Coconut Oil is a natural soap, specially formulated to nourish and moisturize skin. This 2-in-1 formula deeply hydrates, leaving your skin feeling soft, smooth, and radiant. It contains natural ingredients that work in harmony to provide a luxurious cleansing experience.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/Milk_Coconut.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "65g - Pack of 6",
+        "price": 1600.0,
+        "compare_at_price": null,
+        "sku": "40052175",
+        "available": false,
+        "options": {
+          "Size": "65g - Pack of 6"
+        }
+      },
+      {
+        "option_title": "150g - Pack of 4",
+        "price": 2700.0,
+        "compare_at_price": null,
+        "sku": "40052205",
+        "available": false,
+        "options": {
+          "Size": "150g - Pack of 4"
+        }
+      }
+    ],
+    "option_names": [
+      "Size"
+    ],
+    "option_values": {
+      "Size": [
+        "150g - Pack of 4",
+        "65g - Pack of 6"
+      ]
+    }
+  },
+  {
+    "collection": "personal-care",
+    "title": "FreshGlow Moisturizing Soap - Milk & Papaya",
+    "url": "https://thedivashop.ng/products/freshglow-moisturizing-soap-milk-papaya",
+    "price": 1600.0,
+    "compare_at_price": null,
+    "currency": null,
+    "description": null,
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/Milk_Papaya_1024x1024.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "65g - Pack of 6",
+        "price": 1600.0,
+        "compare_at_price": null,
+        "sku": "40052177",
+        "available": false,
+        "options": {
+          "Size": "65g - Pack of 6"
+        }
+      },
+      {
+        "option_title": "140g - Pack of 4",
+        "price": 2700.0,
+        "compare_at_price": null,
+        "sku": "40052199",
+        "available": true,
+        "options": {
+          "Size": "140g - Pack of 4"
+        }
+      }
+    ],
+    "option_names": [
+      "Size"
+    ],
+    "option_values": {
+      "Size": [
+        "140g - Pack of 4",
+        "65g - Pack of 6"
+      ]
+    }
+  },
+  {
+    "collection": "personal-care",
+    "title": "FreshGlow Natural Soap -  Crushed Turmeric",
+    "url": "https://thedivashop.ng/products/freshglow-natural-soap-crushed-turmeric",
+    "price": 1600.0,
+    "compare_at_price": null,
+    "currency": null,
+    "description": null,
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/Turmeric_Sandalwood_1024x1024.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "65g - Pack of 6",
+        "price": 1600.0,
+        "compare_at_price": null,
+        "sku": "40052174",
+        "available": false,
+        "options": {
+          "Size": "65g - Pack of 6"
+        }
+      },
+      {
+        "option_title": "150g - Pack of 4",
+        "price": 2700.0,
+        "compare_at_price": null,
+        "sku": "40052187",
+        "available": false,
+        "options": {
+          "Size": "150g - Pack of 4"
+        }
+      }
+    ],
+    "option_names": [
+      "Size"
+    ],
+    "option_values": {
+      "Size": [
+        "150g - Pack of 4",
+        "65g - Pack of 6"
+      ]
+    }
+  },
+  {
+    "collection": "personal-care",
+    "title": "FreshGlow Natural Soap -  Cucumber & Coconut",
+    "url": "https://thedivashop.ng/products/freshglow-natural-soap-cucumber-coconut",
+    "price": 1600.0,
+    "compare_at_price": null,
+    "currency": null,
+    "description": null,
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/Cucumber_coconut_1024x1024.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "65g - Pack of 6",
+        "price": 1600.0,
+        "compare_at_price": null,
+        "sku": "FGSOFG0650001",
+        "available": false,
+        "options": {
+          "Size": "65g - Pack of 6"
+        }
+      },
+      {
+        "option_title": "150g - Pack of 4",
+        "price": 2700.0,
+        "compare_at_price": null,
+        "sku": "40052178",
+        "available": false,
+        "options": {
+          "Size": "150g - Pack of 4"
+        }
+      }
+    ],
+    "option_names": [
+      "Size"
+    ],
+    "option_values": {
+      "Size": [
+        "150g - Pack of 4",
+        "65g - Pack of 6"
+      ]
+    }
+  },
+  {
+    "collection": "personal-care",
+    "title": "FreshGlow Natural Soap -  Honey & Lemon",
+    "url": "https://thedivashop.ng/products/freshglow-natural-soap-honey-lemon",
+    "price": 1600.0,
+    "compare_at_price": null,
+    "currency": null,
+    "description": null,
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/Honey_Lemon_1024x1024.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "65g - Pack of 6",
+        "price": 1600.0,
+        "compare_at_price": null,
+        "sku": "40052190",
+        "available": false,
+        "options": {
+          "Size": "65g - Pack of 6"
+        }
+      },
+      {
+        "option_title": "150g - Pack of 4",
+        "price": 2700.0,
+        "compare_at_price": null,
+        "sku": "40052188",
+        "available": false,
+        "options": {
+          "Size": "150g - Pack of 4"
+        }
+      }
+    ],
+    "option_names": [
+      "Size"
+    ],
+    "option_values": {
+      "Size": [
+        "150g - Pack of 4",
+        "65g - Pack of 6"
+      ]
+    }
+  },
+  {
+    "collection": "personal-care",
+    "title": "Tura Medicated",
+    "url": "https://thedivashop.ng/products/tura-medicated",
+    "price": 1300.0,
+    "compare_at_price": null,
+    "currency": "NGN",
+    "description": "Tura Medicated soap is formulated for all skin types. This soap bar has natural healing properties that cleanse and protect your skin from body odor and other skin infections. It also helps in removing dark spots and pimples that leave your skin looking fresh and supple always. In addition to that, it also hydrates and revitalizes dry skin.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/Tura.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "65g - Pack of 3",
+        "price": 1300.0,
+        "compare_at_price": null,
+        "sku": "40052206",
+        "available": true,
+        "options": {
+          "Size": "65g - Pack of 3"
+        }
+      },
+      {
+        "option_title": "120g - Pack of 3",
+        "price": 1300.0,
+        "compare_at_price": null,
+        "sku": "40052208",
+        "available": true,
+        "options": {
+          "Size": "120g - Pack of 3"
+        }
+      }
+    ],
+    "option_names": [
+      "Size"
+    ],
+    "option_values": {
+      "Size": [
+        "120g - Pack of 3",
+        "65g - Pack of 3"
+      ]
+    }
+  },
+  {
+    "collection": "personal-care",
+    "title": "Tura Supreme Green",
+    "url": "https://thedivashop.ng/products/tura-supreme-green",
+    "price": 900.0,
+    "compare_at_price": null,
+    "currency": null,
+    "description": null,
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/Tura_Supreme_Unique_Green_1024x1024.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "60g - Pack of 5",
+        "price": 900.0,
+        "compare_at_price": null,
+        "sku": "40052218",
+        "available": true,
+        "options": {
+          "Size": "60g - Pack of 5"
+        }
+      },
+      {
+        "option_title": "175g - Pack of 5",
+        "price": 3300.0,
+        "compare_at_price": null,
+        "sku": "40052229",
+        "available": true,
+        "options": {
+          "Size": "175g - Pack of 5"
+        }
+      }
+    ],
+    "option_names": [
+      "Size"
+    ],
+    "option_values": {
+      "Size": [
+        "175g - Pack of 5",
+        "60g - Pack of 5"
+      ]
+    }
+  },
+  {
+    "collection": "personal-care",
+    "title": "Tura Supreme Peach",
+    "url": "https://thedivashop.ng/products/tura-supreme-peach",
+    "price": 900.0,
+    "compare_at_price": null,
+    "currency": null,
+    "description": null,
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/Tura_Supreme_Lovely_Peach_1024x1024.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "60g - Pack of 5",
+        "price": 900.0,
+        "compare_at_price": null,
+        "sku": "40052216",
+        "available": true,
+        "options": {
+          "Size": "60g - Pack of 5"
+        }
+      },
+      {
+        "option_title": "175g - Pack of 5",
+        "price": 3300.0,
+        "compare_at_price": null,
+        "sku": "40052238",
+        "available": true,
+        "options": {
+          "Size": "175g - Pack of 5"
+        }
+      }
+    ],
+    "option_names": [
+      "Size"
+    ],
+    "option_values": {
+      "Size": [
+        "175g - Pack of 5",
+        "60g - Pack of 5"
+      ]
+    }
+  },
+  {
+    "collection": "personal-care",
+    "title": "Tura Supreme Pink",
+    "url": "https://thedivashop.ng/products/tura-supreme-pink",
+    "price": 900.0,
+    "compare_at_price": null,
+    "currency": null,
+    "description": null,
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/Tura_Supreme_Exotic_Pink_1024x1024.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "175g - Pack of 5",
+        "price": 3300.0,
+        "compare_at_price": null,
+        "sku": "40052234",
+        "available": true,
+        "options": {
+          "Size": "175g - Pack of 5"
+        }
+      },
+      {
+        "option_title": "60g - Pack of 5",
+        "price": 900.0,
+        "compare_at_price": null,
+        "sku": "40052217",
+        "available": true,
+        "options": {
+          "Size": "60g - Pack of 5"
+        }
+      }
+    ],
+    "option_names": [
+      "Size"
+    ],
+    "option_values": {
+      "Size": [
+        "175g - Pack of 5",
+        "60g - Pack of 5"
+      ]
+    }
+  },
+  {
+    "collection": "personal-care",
+    "title": "Tura Supreme Purple",
+    "url": "https://thedivashop.ng/products/tura-supreme-purple",
+    "price": 900.0,
+    "compare_at_price": null,
+    "currency": null,
+    "description": null,
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/Tura_Supreme_Stunning_purple_1024x1024.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "60g - Pack of 5",
+        "price": 900.0,
+        "compare_at_price": null,
+        "sku": "40052213",
+        "available": true,
+        "options": {
+          "Size": "60g - Pack of 5"
+        }
+      },
+      {
+        "option_title": "175g - Pack of 5",
+        "price": 3300.0,
+        "compare_at_price": null,
+        "sku": "40052223",
+        "available": true,
+        "options": {
+          "Size": "175g - Pack of 5"
+        }
+      }
+    ],
+    "option_names": [
+      "Size"
+    ],
+    "option_values": {
+      "Size": [
+        "175g - Pack of 5",
+        "60g - Pack of 5"
+      ]
+    }
+  },
+  {
+    "collection": "personal-care",
+    "title": "Tura Supreme White",
+    "url": "https://thedivashop.ng/products/tura-supreme-white",
+    "price": 900.0,
+    "compare_at_price": null,
+    "currency": "NGN",
+    "description": "Tura Supreme is a range of family soap specially formulated for young and caring Moms in Nigeria who want the best for their families.\nOur product range is designed to cleanse, refresh and moisturize your skin leaving it smooth and nourished. \nCurated for all skin types.\nThere are exciting variants for everyone.\nChoose Tura Supreme Soap to stay refreshed every day.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/Tura_Supreme_Innocent_White.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "60g - Pack of 5",
+        "price": 900.0,
+        "compare_at_price": null,
+        "sku": "40052203",
+        "available": true,
+        "options": {
+          "Size": "60g - Pack of 5"
+        }
+      },
+      {
+        "option_title": "175g - Pack of 5",
+        "price": 3300.0,
+        "compare_at_price": null,
+        "sku": "40052222",
+        "available": true,
+        "options": {
+          "Size": "175g - Pack of 5"
+        }
+      }
+    ],
+    "option_names": [
+      "Size"
+    ],
+    "option_values": {
+      "Size": [
+        "175g - Pack of 5",
+        "60g - Pack of 5"
+      ]
+    }
+  },
+  {
+    "collection": "personal-care",
+    "title": "Tura Supreme Yellow",
+    "url": "https://thedivashop.ng/products/tura-supreme-yellow",
+    "price": 900.0,
+    "compare_at_price": null,
+    "currency": null,
+    "description": null,
+    "images": [
+      "https://thedivashop.ng/cdn/shop/products/Tura_Supreme_Magnificent_Yellow_1024x1024.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "60g - Pack of 5",
+        "price": 900.0,
+        "compare_at_price": null,
+        "sku": "40052204",
+        "available": true,
+        "options": {
+          "Size": "60g - Pack of 5"
+        }
+      },
+      {
+        "option_title": "175g - Pack of 5",
+        "price": 3300.0,
+        "compare_at_price": null,
+        "sku": "40052249",
+        "available": true,
+        "options": {
+          "Size": "175g - Pack of 5"
+        }
+      }
+    ],
+    "option_names": [
+      "Size"
+    ],
+    "option_values": {
+      "Size": [
+        "175g - Pack of 5",
+        "60g - Pack of 5"
+      ]
+    }
+  },
+  {
+    "collection": "sale",
+    "title": "Darling Easy Braid 5X - (Summer Colours)",
+    "url": "https://thedivashop.ng/products/darling-easy-braid-5x-summer-colours",
+    "price": 2199.0,
+    "compare_at_price": 4200.0,
+    "currency": "NGN",
+    "description": "To add moisture and shine on your own hair and scalp use African Pride braid spray twice a week. Before going to bed wear a silk nightcap to prevent damage. Wear a swimming cap when swimming and if the hair comes into contact with the pool or sea water make sure to rinse the hair thoroughly before you condition or moisture.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/files/5X-Braid_1_60.png",
+      "https://thedivashop.ng/cdn/shop/files/5X-Braid_1_GOLD.png",
+      "https://thedivashop.ng/cdn/shop/files/EASYBRAID5X_323c15b9-dfe1-41e0-8613-b98df349e3cd.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "1/27",
+        "price": 2199.0,
+        "compare_at_price": 4200.0,
+        "sku": "40052487",
+        "available": false,
+        "options": {
+          "Color": "1/27"
+        }
+      },
+      {
+        "option_title": "1/60",
+        "price": 2199.0,
+        "compare_at_price": 4200.0,
+        "sku": "40052516",
+        "available": false,
+        "options": {
+          "Color": "1/60"
+        }
+      },
+      {
+        "option_title": "1/BLUSHPINK",
+        "price": 2199.0,
+        "compare_at_price": 4200.0,
+        "sku": "40052514",
+        "available": false,
+        "options": {
+          "Color": "1/BLUSHPINK"
+        }
+      },
+      {
+        "option_title": "1/DARK GREEN",
+        "price": 2199.0,
+        "compare_at_price": 4200.0,
+        "sku": "40052507",
+        "available": false,
+        "options": {
+          "Color": "1/DARK GREEN"
+        }
+      },
+      {
+        "option_title": "1/SILVER",
+        "price": 2199.0,
+        "compare_at_price": 4200.0,
+        "sku": "40052475",
+        "available": false,
+        "options": {
+          "Color": "1/SILVER"
+        }
+      },
+      {
+        "option_title": "1/TEAL",
+        "price": 2199.0,
+        "compare_at_price": 4200.0,
+        "sku": "40052506",
+        "available": false,
+        "options": {
+          "Color": "1/TEAL"
+        }
+      },
+      {
+        "option_title": "1/DARLING PURPLE",
+        "price": 2199.0,
+        "compare_at_price": 4200.0,
+        "sku": "40052483",
+        "available": false,
+        "options": {
+          "Color": "1/DARLING PURPLE"
+        }
+      },
+      {
+        "option_title": "TEAL",
+        "price": 2199.0,
+        "compare_at_price": 4200.0,
+        "sku": "40052566",
+        "available": false,
+        "options": {
+          "Color": "TEAL"
+        }
+      },
+      {
+        "option_title": "1/GOLD",
+        "price": 2199.0,
+        "compare_at_price": 4200.0,
+        "sku": "40052488",
+        "available": false,
+        "options": {
+          "Color": "1/GOLD"
+        }
+      },
+      {
+        "option_title": "1/PURPLE",
+        "price": 2199.0,
+        "compare_at_price": 4200.0,
+        "sku": "40052476",
+        "available": false,
+        "options": {
+          "Color": "1/PURPLE"
+        }
+      },
+      {
+        "option_title": "1/PINK",
+        "price": 2199.0,
+        "compare_at_price": 4200.0,
+        "sku": "40052477",
+        "available": false,
+        "options": {
+          "Color": "1/PINK"
+        }
+      }
+    ],
+    "option_names": [
+      "Color"
+    ],
+    "option_values": {
+      "Color": [
+        "1/27",
+        "1/60",
+        "1/BLUSHPINK",
+        "1/DARK GREEN",
+        "1/DARLING PURPLE",
+        "1/GOLD",
+        "1/PINK",
+        "1/PURPLE",
+        "1/SILVER",
+        "1/TEAL",
+        "TEAL"
+      ]
+    }
+  },
+  {
+    "collection": "sale",
+    "title": "Darling Empress Silky Straight  (Summer Colours)",
+    "url": "https://thedivashop.ng/products/darling-empress-silky-straight-summer-colours",
+    "price": 3599.0,
+    "compare_at_price": 9065.0,
+    "currency": null,
+    "description": null,
+    "images": [],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "1 / 18\" 20\"",
+        "price": 3599.0,
+        "compare_at_price": 9065.0,
+        "sku": "40053292",
+        "available": false,
+        "options": {
+          "Color": "1",
+          "Size": "18\" 20\""
+        }
+      }
+    ],
+    "option_names": [
+      "Color",
+      "Size"
+    ],
+    "option_values": {
+      "Color": [
+        "1"
+      ],
+      "Size": [
+        "18\" 20\""
+      ]
+    }
+  },
+  {
+    "collection": "sale",
+    "title": "Darling Jungle Braid (Summer Colours)",
+    "url": "https://thedivashop.ng/products/darling-jungle-braid-summer-colours",
+    "price": 2100.0,
+    "compare_at_price": 6700.0,
+    "currency": null,
+    "description": null,
+    "images": [],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "1/30",
+        "price": 2100.0,
+        "compare_at_price": 6700.0,
+        "sku": "40053566",
+        "available": true,
+        "options": {
+          "Color": "1/30"
+        }
+      },
+      {
+        "option_title": "1/GOLD",
+        "price": 2100.0,
+        "compare_at_price": 6700.0,
+        "sku": "40053569",
+        "available": true,
+        "options": {
+          "Color": "1/GOLD"
+        }
+      },
+      {
+        "option_title": "1/SILVER",
+        "price": 2100.0,
+        "compare_at_price": 6700.0,
+        "sku": "40053570",
+        "available": true,
+        "options": {
+          "Color": "1/SILVER"
+        }
+      },
+      {
+        "option_title": "1/PURPLE",
+        "price": 2100.0,
+        "compare_at_price": 6700.0,
+        "sku": "40053568",
+        "available": false,
+        "options": {
+          "Color": "1/PURPLE"
+        }
+      },
+      {
+        "option_title": "30",
+        "price": 2100.0,
+        "compare_at_price": 6700.0,
+        "sku": "40053565",
+        "available": false,
+        "options": {
+          "Color": "30"
+        }
+      },
+      {
+        "option_title": "33",
+        "price": 2100.0,
+        "compare_at_price": 6700.0,
+        "sku": "40053554",
+        "available": false,
+        "options": {
+          "Color": "33"
+        }
+      },
+      {
+        "option_title": "900",
+        "price": 2100.0,
+        "compare_at_price": 6700.0,
+        "sku": "40053555",
+        "available": false,
+        "options": {
+          "Color": "900"
+        }
+      },
+      {
+        "option_title": "1/27",
+        "price": 2100.0,
+        "compare_at_price": 6700.0,
+        "sku": "40053556",
+        "available": true,
+        "options": {
+          "Color": "1/27"
+        }
+      },
+      {
+        "option_title": "1",
+        "price": 2100.0,
+        "compare_at_price": 6700.0,
+        "sku": "40053530",
+        "available": true,
+        "options": {
+          "Color": "1"
+        }
+      },
+      {
+        "option_title": "1/900",
+        "price": 2100.0,
+        "compare_at_price": 6700.0,
+        "sku": "40053567",
+        "available": false,
+        "options": {
+          "Color": "1/900"
+        }
+      },
+      {
+        "option_title": "1/613",
+        "price": 2100.0,
+        "compare_at_price": 6700.0,
+        "sku": "40053557",
+        "available": true,
+        "options": {
+          "Color": "1/613"
+        }
+      }
+    ],
+    "option_names": [
+      "Color"
+    ],
+    "option_values": {
+      "Color": [
+        "1",
+        "1/27",
+        "1/30",
+        "1/613",
+        "1/900",
+        "1/GOLD",
+        "1/PURPLE",
+        "1/SILVER",
+        "30",
+        "33",
+        "900"
+      ]
+    }
+  },
+  {
+    "collection": "sale",
+    "title": "Darling Rasta Locs - (Summer Colours)",
+    "url": "https://thedivashop.ng/products/darling-rasta-locs-summer-colours",
+    "price": 1500.0,
+    "compare_at_price": 4100.0,
+    "currency": null,
+    "description": null,
+    "images": [],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "1/WHITE",
+        "price": 1500.0,
+        "compare_at_price": 4100.0,
+        "sku": "40053592",
+        "available": true,
+        "options": {
+          "Color": "1/WHITE"
+        }
+      }
+    ],
+    "option_names": [
+      "Color"
+    ],
+    "option_values": {
+      "Color": [
+        "1/WHITE"
+      ]
+    }
+  },
+  {
+    "collection": "sale",
+    "title": "Darling Super Soft (Summer Colours)",
+    "url": "https://thedivashop.ng/products/darling-super-soft-summer-colours",
+    "price": 2299.0,
+    "compare_at_price": 6800.0,
+    "currency": null,
+    "description": null,
+    "images": [],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "METALLIC GREY",
+        "price": 2299.0,
+        "compare_at_price": 6800.0,
+        "sku": "40052532",
+        "available": true,
+        "options": {
+          "Color": "METALLIC GREY"
+        }
+      }
+    ],
+    "option_names": [
+      "Color"
+    ],
+    "option_values": {
+      "Color": [
+        "METALLIC GREY"
+      ]
+    }
+  },
+  {
+    "collection": "sale",
+    "title": "Darling Superstar  - (Summer Colours)",
+    "url": "https://thedivashop.ng/products/darling-superstar-summer-colours",
+    "price": 1499.0,
+    "compare_at_price": 4800.0,
+    "currency": "NGN",
+    "description": "To add moisture and shine on your own hair and scalp use African Pride braid spray twice a week. Before going to bed wear a silk nightcap to prevent damage. Wear a swimming cap when swimming and if the hair comes into contact with the pool or sea water make sure to rinse the hair thoroughly before you condition and moisture.",
+    "images": [
+      "https://thedivashop.ng/cdn/shop/files/DSS-24KGold.png",
+      "https://thedivashop.ng/cdn/shop/files/99J_L_New.png",
+      "https://thedivashop.ng/cdn/shop/products/DSSRosewood.png",
+      "https://thedivashop.ng/cdn/shop/files/Dss-lightcaramel.png",
+      "https://thedivashop.ng/cdn/shop/files/Baby_PINK.png",
+      "https://thedivashop.ng/cdn/shop/files/Dss-LightPink.png",
+      "https://thedivashop.ng/cdn/shop/files/DSS_5524e69d-6ca8-4df0-8bef-e2a2ebf04f31.png",
+      "https://thedivashop.ng/cdn/shop/products/DSS-Rosy_bc050f8c-1c16-417a-8f31-9e07d3994c9b.png",
+      "https://thedivashop.ng/cdn/shop/products/DSS-Blush-Pink.png",
+      "https://thedivashop.ng/cdn/shop/products/DSS-Metallic-Grey.png",
+      "https://thedivashop.ng/cdn/shop/files/L_TEAL.png",
+      "https://thedivashop.ng/cdn/shop/files/DSS_60.png",
+      "https://thedivashop.ng/cdn/shop/files/DSSPinkberry.png",
+      "https://thedivashop.ng/cdn/shop/files/Ash.jpg",
+      "https://thedivashop.ng/cdn/shop/files/Indigo-Bue.jpg",
+      "https://thedivashop.ng/cdn/shop/files/DSS-Mintgreen.png",
+      "https://thedivashop.ng/cdn/shop/files/Stormy_L_0d4a5a60-5744-4d6c-9f80-327d8fd5fb1d.png",
+      "https://thedivashop.ng/cdn/shop/files/DSS-Twilight.png",
+      "https://thedivashop.ng/cdn/shop/files/DSS-Cloud_a803ecc2-9560-4ad0-876f-dc87709dd3db.png",
+      "https://thedivashop.ng/cdn/shop/files/Chocolate_L_New.png",
+      "https://thedivashop.ng/cdn/shop/files/DSSSC_340.png"
+    ],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "CLOUD",
+        "price": 1499.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052788",
+        "available": false,
+        "options": {
+          "Color": "CLOUD"
+        }
+      },
+      {
+        "option_title": "1C",
+        "price": 1499.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052713",
+        "available": false,
+        "options": {
+          "Color": "1C"
+        }
+      },
+      {
+        "option_title": "99J",
+        "price": 1999.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052630",
+        "available": false,
+        "options": {
+          "Color": "99J"
+        }
+      },
+      {
+        "option_title": "1/BLUE",
+        "price": 1499.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052588",
+        "available": false,
+        "options": {
+          "Color": "1/BLUE"
+        }
+      },
+      {
+        "option_title": "1/27",
+        "price": 1499.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052586",
+        "available": false,
+        "options": {
+          "Color": "1/27"
+        }
+      },
+      {
+        "option_title": "1/350",
+        "price": 1499.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052587",
+        "available": false,
+        "options": {
+          "Color": "1/350"
+        }
+      },
+      {
+        "option_title": "1B",
+        "price": 1499.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052641",
+        "available": false,
+        "options": {
+          "Color": "1B"
+        }
+      },
+      {
+        "option_title": "60",
+        "price": 1499.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052629",
+        "available": true,
+        "options": {
+          "Color": "60"
+        }
+      },
+      {
+        "option_title": "BABY PINK",
+        "price": 1499.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052704",
+        "available": true,
+        "options": {
+          "Color": "BABY PINK"
+        }
+      },
+      {
+        "option_title": "PINK BERRY",
+        "price": 1499.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052720",
+        "available": true,
+        "options": {
+          "Color": "PINK BERRY"
+        }
+      },
+      {
+        "option_title": "MINT GREEN",
+        "price": 1499.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052707",
+        "available": true,
+        "options": {
+          "Color": "MINT GREEN"
+        }
+      },
+      {
+        "option_title": "L-TEAL",
+        "price": 1499.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052724",
+        "available": true,
+        "options": {
+          "Color": "L-TEAL"
+        }
+      },
+      {
+        "option_title": "YELLOW",
+        "price": 1499.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052712",
+        "available": false,
+        "options": {
+          "Color": "YELLOW"
+        }
+      },
+      {
+        "option_title": "INDIGO BLUE",
+        "price": 1499.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052762",
+        "available": false,
+        "options": {
+          "Color": "INDIGO BLUE"
+        }
+      },
+      {
+        "option_title": "CHOCOLATE",
+        "price": 1999.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052784",
+        "available": false,
+        "options": {
+          "Color": "CHOCOLATE"
+        }
+      },
+      {
+        "option_title": "340",
+        "price": 2499.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052623",
+        "available": false,
+        "options": {
+          "Color": "340"
+        }
+      },
+      {
+        "option_title": "METALLIC GREY",
+        "price": 1499.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052652",
+        "available": true,
+        "options": {
+          "Color": "METALLIC GREY"
+        }
+      },
+      {
+        "option_title": "ROSEWOOD",
+        "price": 1499.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052710",
+        "available": true,
+        "options": {
+          "Color": "ROSEWOOD"
+        }
+      },
+      {
+        "option_title": "ROSY",
+        "price": 1499.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052731",
+        "available": true,
+        "options": {
+          "Color": "ROSY"
+        }
+      },
+      {
+        "option_title": "GREEN",
+        "price": 1499.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052658",
+        "available": true,
+        "options": {
+          "Color": "GREEN"
+        }
+      },
+      {
+        "option_title": "TWILIGHT",
+        "price": 1499.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052717",
+        "available": true,
+        "options": {
+          "Color": "TWILIGHT"
+        }
+      },
+      {
+        "option_title": "LIGHT CARAMEL",
+        "price": 1499.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052723",
+        "available": true,
+        "options": {
+          "Color": "LIGHT CARAMEL"
+        }
+      },
+      {
+        "option_title": "LIGHT PINK",
+        "price": 1499.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052722",
+        "available": true,
+        "options": {
+          "Color": "LIGHT PINK"
+        }
+      },
+      {
+        "option_title": "VIOLET",
+        "price": 1499.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052656",
+        "available": false,
+        "options": {
+          "Color": "VIOLET"
+        }
+      },
+      {
+        "option_title": "STORMY",
+        "price": 1499.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052760",
+        "available": true,
+        "options": {
+          "Color": "STORMY"
+        }
+      },
+      {
+        "option_title": "ASH",
+        "price": 1499.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052705",
+        "available": true,
+        "options": {
+          "Color": "ASH"
+        }
+      },
+      {
+        "option_title": "24K GOLD",
+        "price": 1499.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052783",
+        "available": true,
+        "options": {
+          "Color": "24K GOLD"
+        }
+      },
+      {
+        "option_title": "BLUSH PINK",
+        "price": 1499.0,
+        "compare_at_price": 4800.0,
+        "sku": "40052650",
+        "available": false,
+        "options": {
+          "Color": "BLUSH PINK"
+        }
+      }
+    ],
+    "option_names": [
+      "Color"
+    ],
+    "option_values": {
+      "Color": [
+        "1/27",
+        "1/350",
+        "1/BLUE",
+        "1B",
+        "1C",
+        "24K GOLD",
+        "340",
+        "60",
+        "99J",
+        "ASH",
+        "BABY PINK",
+        "BLUSH PINK",
+        "CHOCOLATE",
+        "CLOUD",
+        "GREEN",
+        "INDIGO BLUE",
+        "L-TEAL",
+        "LIGHT CARAMEL",
+        "LIGHT PINK",
+        "METALLIC GREY",
+        "MINT GREEN",
+        "PINK BERRY",
+        "ROSEWOOD",
+        "ROSY",
+        "STORMY",
+        "TWILIGHT",
+        "VIOLET",
+        "YELLOW"
+      ]
+    }
+  },
+  {
+    "collection": "the-diva-shop-gift-card",
+    "title": "The Diva Shop Gift Card - Bronze",
+    "url": "https://thedivashop.ng/products/the-diva-shop-gift-card-bronze",
+    "price": 5000.0,
+    "compare_at_price": null,
+    "currency": null,
+    "description": null,
+    "images": [],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "5000",
+        "price": 5000.0,
+        "compare_at_price": null,
+        "sku": "DSN_GC_5000",
+        "available": true,
+        "options": {
+          "Denominations": "5000"
+        }
+      }
+    ],
+    "option_names": [
+      "Denominations"
+    ],
+    "option_values": {
+      "Denominations": [
+        "5000"
+      ]
+    }
+  },
+  {
+    "collection": "the-diva-shop-gift-card",
+    "title": "The Diva Shop Gift Card - Diamond",
+    "url": "https://thedivashop.ng/products/the-diva-shop-gift-card-diamond",
+    "price": 100000.0,
+    "compare_at_price": null,
+    "currency": null,
+    "description": null,
+    "images": [],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "100000.00",
+        "price": 100000.0,
+        "compare_at_price": null,
+        "sku": "DSN_GC_100000",
+        "available": true,
+        "options": {
+          "Denominations": "100000.00"
+        }
+      }
+    ],
+    "option_names": [
+      "Denominations"
+    ],
+    "option_values": {
+      "Denominations": [
+        "100000.00"
+      ]
+    }
+  },
+  {
+    "collection": "the-diva-shop-gift-card",
+    "title": "The Diva Shop Gift Card - Gold",
+    "url": "https://thedivashop.ng/products/the-diva-shop-gift-card-gold",
+    "price": 20000.0,
+    "compare_at_price": null,
+    "currency": null,
+    "description": null,
+    "images": [],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "20000",
+        "price": 20000.0,
+        "compare_at_price": null,
+        "sku": "DSN_GC_20000",
+        "available": true,
+        "options": {
+          "Denominations": "20000"
+        }
+      }
+    ],
+    "option_names": [
+      "Denominations"
+    ],
+    "option_values": {
+      "Denominations": [
+        "20000"
+      ]
+    }
+  },
+  {
+    "collection": "the-diva-shop-gift-card",
+    "title": "The Diva Shop Gift Card - Platinum",
+    "url": "https://thedivashop.ng/products/the-diva-shop-gift-card-platinum",
+    "price": 50000.0,
+    "compare_at_price": null,
+    "currency": null,
+    "description": null,
+    "images": [],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "50000.00",
+        "price": 50000.0,
+        "compare_at_price": null,
+        "sku": "DSN_GC_50000",
+        "available": true,
+        "options": {
+          "Denominations": "50000.00"
+        }
+      }
+    ],
+    "option_names": [
+      "Denominations"
+    ],
+    "option_values": {
+      "Denominations": [
+        "50000.00"
+      ]
+    }
+  },
+  {
+    "collection": "the-diva-shop-gift-card",
+    "title": "The Diva Shop Gift Card - Silver",
+    "url": "https://thedivashop.ng/products/the-diva-shop-gift-card-silver",
+    "price": 10000.0,
+    "compare_at_price": null,
+    "currency": null,
+    "description": null,
+    "images": [],
+    "tags": [],
+    "vendor": null,
+    "product_type": null,
+    "variants": [
+      {
+        "option_title": "10000",
+        "price": 10000.0,
+        "compare_at_price": null,
+        "sku": "DSN_GC_10000",
+        "available": true,
+        "options": {
+          "Denominations": "10000"
+        }
+      }
+    ],
+    "option_names": [
+      "Denominations"
+    ],
+    "option_values": {
+      "Denominations": [
+        "10000"
+      ]
+    }
+  }
+]

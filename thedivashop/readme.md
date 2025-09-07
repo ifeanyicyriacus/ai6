@@ -53,3 +53,12 @@ You will use web scraping techniques to collect product information from the sit
     ```bash
     python scrape_divashop.py
     ```
+
+### Notes
+
+- Outputs are saved to `data/products.json` and `data/products.csv`.
+- To target specific collections, pass them as arguments:
+    ```bash
+    python scrape_divashop.py https://thedivashop.ng/collections/darling https://thedivashop.ng/collections/amigos
+    ```
+    Otherwise, the script scrapes all predefined collections in `scrape_divashop.py`.
